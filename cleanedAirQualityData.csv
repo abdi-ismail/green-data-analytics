@@ -1,701 +1,701 @@
-,id,location,Location Type,Latitude (Normalised)
-0,1,Withywood School,Urban Traffic,0.0909330382676792
-1,2,Colston Avenue,Urban Traffic,0.2938159127984107
-2,3,Blackboy Hill,Urban Traffic,0.357305528540315
-3,4,Three Lamps,Urban Traffic,0.2489726016785307
-4,5,Bedminster Parade,Urban Traffic,0.2429141946354523
-5,6,Church Road,Urban Traffic,0.3102920364172479
-6,7,St. Andrew's Rd,Urban Traffic,0.49558147749590986
-7,8,Higham Street,Urban Background,0.25101726499215116
-8,9,B.R.I.,Urban Traffic,0.312865051710554
-9,10,Bath Road,Urban Traffic,0.23296471427037527
-10,11,Whitefriars,Urban Traffic,0.3067735040613447
-11,12,Galleries,Urban Traffic,0.3017723316726845
-12,13,Ferndown Close,Urban Background,0.46693403661442573
-13,14,Red Lion Knowle,Urban Traffic,0.18808863196323813
-14,15,Horsefair,Urban Traffic,0.31249761539385457
-15,16,Third Way,Urban Traffic,0.5132529966910423
-16,17,Anglesea Place,Urban Traffic,0.3545983028904187
-17,18,Hillcrest,Urban Background,0.18027812662917475
-18,19,Conham Vale,Urban Traffic,0.2604651853675661
-19,20,Newfoundland Way,Urban Traffic,0.31823336137020186
-20,21,Gloucester Road,Urban Traffic,0.38337824544331606
-21,22,Stokes Croft,Urban Traffic,0.3280662824121592
-22,23,Old Market,Urban Traffic,0.3001478466699926
-23,24,Easton Primary School,Urban Background,0.31818240573312173
-24,25,Filwood Bus Depot,Urban Background,0.14550859214310338
-25,26,59 Creswicke Rd,Urban Background,0.15662806322499542
-26,27,111 Creswicke Rd,Urban Background,0.1564983305994517
-27,28,RO 243 Creswicke Rd,Urban Background,0.145399998383237
-28,29,Fishponds - Gloucester St,Urban Traffic,0.3740171508002578
-29,30,Old Market,Urban Traffic,0.3000377794360299
-30,31,Lawrence Weston,Rural Industrial,0.4791896612759544
-31,32,Holesmouth,Rural Industrial,0.5952501197757706
-32,33,Chitening Wharf,Rural Industrial,0.6775135319297472
-33,34,Hallen,Rural Industrial,0.5574875526068427
-34,35,Severn Beach,Rural Industrial,0.7135902704002567
-35,36,Lower Over Farm,Rural Industrial,0.667572821475177
-36,37,Northwick Oaze,Rural Industrial,0.9140789910429206
-37,38,Littleton Wharf,Rural Industrial,1.0
-38,39,Earthcott Green,Rural Industrial,0.7164742080199153
-39,40,Prince St Bridge (centre side),Urban Traffic,0.2700064664442375
-40,41,Prince St Bridge (Bedminster side),Urban Traffic,0.26650092756340854
-41,42,Hotwells - Pump House,Urban Traffic,0.26706144031398465
-42,43,Victoria St - A,Urban Traffic,0.2874121061721304
-43,44,Portwall Lane - A,Urban Traffic,0.2702593747675111
-44,45,Portwall Lane - B,Urban Traffic,0.27127286158162545
-45,46,Portwall Lane - C,Urban Traffic,0.2706969146346672
-46,47,Portwall Lane - D,Urban Traffic,0.2718279336857614
-47,48,Redcliff St - A,Urban Traffic,0.2721085882623035
-48,49,Redcliffe St - B,Urban Traffic,0.27370565502879557
-49,50,Redcliffe Hill - A,Urban Traffic,0.2664374330489336
-50,51,Redcliffe Hill - B,Urban Traffic,0.2614473004891741
-51,52,Guinea St,Urban Traffic,0.26200060666032005
-52,53,Victoria St - B,Urban Traffic,0.28781029515393247
-53,54,Commercial Rd - A,Urban Traffic,0.2583116907881182
-54,55,Commercial Rd - B,Urban Traffic,0.2580455501873188
-55,56,Clarence Rd - A,Urban Traffic,0.25534943220353756
-56,57,Clarence Rd - B,Urban Traffic,0.25432210534499056
-57,58,Clarence Rd - C,Urban Traffic,0.2556210767569268
-58,59,Clarence Rd - D,Urban Traffic,0.25932310233475503
-59,60,Clarence Rd - E,Urban Traffic,0.26239902662852244
-60,61,Temple Gate - A,Urban Traffic,0.2666294730519743
-61,62,Temple Gate - B,Urban Traffic,0.26733743416145694
-62,63,Victoria St - C,Urban Traffic,0.2807291255803841
-63,64,Bath Bridge,Urban Traffic,0.2601222413482702
-64,65,York Rd - A,Urban Traffic,0.2576365021933635
-65,66,York Rd - B,Urban Traffic,0.25187136993633125
-66,67,York Rd - C,Urban Traffic,0.25173984256395965
-67,68,Temple Way - A,Urban Traffic,0.28230988093675186
-68,69,Temple Way - B,Urban Traffic,0.28224970207873723
-69,70,Victoria St - D,Urban Traffic,0.28070174325881697
-70,71,Pipe Lane,Urban Traffic,0.27426103116033856
-71,72,Redcliffe Way - B,Urban Traffic,0.27051757116623065
-72,73,Redcliffe Way - C,Urban Traffic,0.2699651421720879
-73,74,Redcliffe Way - D,Urban Traffic,0.2690177104702183
-74,75,St Nicholas Rd,Urban Background,0.33538774423072387
-75,76,Cotham Lawn Rd,Urban Background,0.33666623921658334
-76,77,The Limes Nursery School,Urban Background,0.33582038826385086
-77,78,Eastville Park,Urban Background,0.3863580841768459
-78,79,Novers Lane School,Urban Background,0.15212390204678244
-79,80,St Mathias,Urban Background,0.41970996467425487
-80,81,Farmwell Close,Urban Background,0.10288620453937178
-81,82,Blaise Castle,Urban Background,0.5156387850434764
-82,83,Petherton Rd,Urban Background,0.15494337669125807
-83,84,Henleaze Infants School,Urban Background,0.4221156484021537
-84,85,Summerleaze Office,Urban Background,0.3821831738059957
-85,86,Avon County School,Urban Background,0.4756023280905424
-86,87,Southmead Hospital,Urban Background,0.47912350419670796
-87,88,Stile AcresBroadlands Drive,Urban Background,0.5000852423977876
-88,89,The Square,Urban Background,0.19253271980993578
-89,90,Hannah Moore School,Urban Background,0.2902899551203508
-90,91,Brangwyn Grove,Urban Background,0.43848484823232725
-91,92,Redland Court,Urban Background,0.3748255454478922
-92,93,Dundridge Playing Fields,Urban Background,0.27684824157705873
-93,94,Airballoon Infants School,Urban Background,0.31111288139533727
-94,95,Trowbridge Rd,Urban Background,0.4983196861956883
-95,96,Greville Smyth Park,Urban Background,0.23938811810571228
-96,97,Ashton Vale School,Urban Background,0.20043430141639307
-97,98,Stockwood Green School,Urban Background,0.0974491091975348
-98,99,Bishops Close,Urban Background,0.38684301917470443
-99,100,Elmlea Jnr School,Urban Background,0.42645090750126413
-100,101,Teyfant Primary School,Urban Background,0.08276525751574942
-101,102,Victoria Park,Urban Background,0.22993953036310924
-102,103,Brunel College,Urban Background,0.39226225472621556
-103,104,Kingshead Lane Park,Urban Background,0.14110467808693422
-104,105,Broomhill Jnr School,Urban Background,0.22897865635953135
-105,106,St Annes Jnr School,Urban Background,0.263354868186012
-106,107,Council House,Urban Background,0.28109771287460456
-107,108,Clifton College,Urban Background,0.3276458425969545
-108,109,Victoria Street a,Urban Traffic,0.2907540263632134
-109,110,Victoria Street,Urban Traffic,0.28173950961071165
-110,111,Redcliffe Street south,Urban Traffic,0.27156020346623294
-111,112,Redcliffe Hill a,Urban Traffic,0.2664374330489336
-112,113,Redcliff Hill b,Urban Traffic,0.2599665091647474
-113,114,Commercial Rd b,Urban Traffic,0.2580455501873188
-114,115,Clarence Road a,Urban Traffic,0.25512693704850653
-115,116,Clarence Road e,Urban Traffic,0.2626758427391139
-116,117,Templegate a,Urban Traffic,0.2666294730519743
-117,118,Templegate b,Urban Traffic,0.26733743416145694
-118,119,Bath Bridge south,Urban Traffic,0.2601222413482702
-119,120,corner York rd  and  Whitehouse St,Urban Traffic,0.2513300212283041
-120,121,Corner York Rd  and  Spring St,Urban Traffic,0.25187136993633125
-121,122,York Road,Urban Traffic,0.25136930305346217
-122,123,Temple Way a,Urban Traffic,0.28265655123172295
-123,124,Temple Way b,Urban Traffic,0.282320477634769
-124,125,Redcliffe Way east,Urban Traffic,0.26967610310161927
-125,126,Redcliffe Way west,Urban Traffic,0.2694666093815286
-126,127,Temple Gate,Urban Traffic,0.26948041269149087
-127,128,between Redcliffe Way and Temple Quay rndbt,Urban Traffic,0.2720042977600542
-128,129,Temple Quay rndbt west,Urban Traffic,0.2749016781986931
-129,130,Temple Quay rndbt east,Urban Traffic,0.2738691688879897
-130,131,Temple Way near Avon Street east,Urban Traffic,0.28892031396854445
-131,132,Temple Way near Avon street west,Urban Traffic,0.28929475126962323
-132,133,St Thomas Street,Urban Traffic,0.27926530805329913
-133,134,Redcliffe Street north,Urban Traffic,0.28085580490881135
-134,135,The  Grove,Urban Traffic,0.27136664897411283
-135,136,Prince Street,Urban Traffic,0.2752259641704963
-136,137,Bath Bridge north,Urban Traffic,0.26319639847060666
-137,138,Bedminster Parade near bridge,Urban Traffic,0.2523767287258961
-138,139,Coronation Road,Urban Traffic,0.2547047157204694
-139,140,Bedminster Bridge east,Urban Traffic,0.25482648536388436
-140,141,Bedminster Bridge west,Urban Traffic,0.2564068548445418
-141,142,Coronation Road near entry to Asda,Urban Traffic,0.2537013895625504
-142,143,roundabout end of Wapping Rd  commercial road,Urban Traffic,0.2567981847347741
-143,144,Anchor Road,Urban Traffic,0.28130939259656007
-144,145,Anchor Road opp Cathedral School,Urban Traffic,0.2777452336382966
-145,146,Anchor Road a,Urban Traffic,0.2762549067992471
-146,147,Anchor Road b,Urban Traffic,0.276392124946509
-147,148,Anchor Road c,Urban Traffic,0.2766491264964422
-148,149,Anchor Road near Hotwells rndbt east,Urban Traffic,0.2765311625167844
-149,150,Anchor Road near Hotwells rndbt west,Urban Traffic,0.275974693723275
-150,151,Hotwells Road,Urban Traffic,0.2729094366873998
-151,152,Jacobs Wells Road South,Urban Traffic,0.28194932132556866
-152,153,Jacobs Wells road opp Clifton hill,Urban Traffic,0.2937930863476456
-153,154,Stokes Croft  Ashley Road,Urban Traffic,0.3360191794877473
-154,155,botttom of Arley Hill,Urban Traffic,0.3424000868213179
-155,156,Cromwell Road,Urban Traffic,0.356133134651881
-156,157,Zetland Road junction,Urban Traffic,0.36282551083462794
-157,158,Bishop Road,Urban Traffic,0.4000538699687146
-158,159,Dongola Avenue,Urban Traffic,0.4104971597368224
-159,160,Strathmore Road,Urban Traffic,0.4329136503360019
-160,161,Horfield Common,Urban Traffic,0.44686964183279176
-161,162,Sports Centre,Urban Traffic,0.4631754197516774
-162,163,Monks Park Avenue,Urban Traffic,0.4772010965413171
-163,164,junction Birchwood Road,Urban Traffic,0.2350046979136934
-164,165,shops,Urban Traffic,0.23406316448951536
-165,166,Eastwood Crescent,Urban Traffic,0.2278060905032512
-166,167,opp Whitmore Avenue,Urban Traffic,0.2224184234661221
-167,168,Raymill,Urban Traffic,0.21000669347178424
-168,169,Ironmould Lane,Urban Traffic,0.17220165406600157
-169,170,Bath Road park  and  ride,Urban Traffic,0.18324428324872968
-170,171,West Town Lane junction,Urban Traffic,0.19341887905465582
-171,172,top of Brislington Hill,Urban Traffic,0.19800998612094098
-172,173,Kenneth Road,Urban Traffic,0.2046079375786145
-173,174,Water Lane,Urban Traffic,0.2048137301788861
-174,175,opp Kensington Park Road,Urban Traffic,0.21601866315374949
-175,176,opp Kings Road,Urban Traffic,0.23005693662630358
-176,177,Arnos Court,Urban Traffic,0.23722444336324644
-177,178,Totterdown Bridge,Urban Traffic,0.24578352979629833
-178,179,Higham Street (National),Urban Traffic,0.25140540573795234
-179,180,Ferndown Close (National),Urban Traffic,0.46685680332352353
-180,181,Hillcrest (National),Urban Traffic,0.17914142751133882
-181,182,Newfoundland Way (National),Urban Traffic,0.31902113909127594
-182,183,No. 6 Borewell WW,Urban Industrial,0.5356501768236446
-183,184,Almondsbury School,Urban Background,0.7209018815546897
-184,185,AURN Bristol Centre,Urban Background,0.30528433725612514
-185,186,Hannah Moore School,Urban Background,0.2902899551203508
-186,187,Albright and Wilson,Urban Industrial,0.586713720558726
-187,188,Tesco forecourt,Urban Industrial,0.3785424897612803
-188,189,Stapleton2,Urban Industrial,0.3871860597802895
-189,190,Eastgate,Urban Industrial,0.37988751296925355
-190,191,Tesco spot,Urban Industrial,0.38224457856177163
-191,192,Sainsbury Ashton3,Urban Industrial,0.20382648784180402
-192,193,Redland Road,Urban Industrial,0.3600545594328422
-193,194,Arnos Court,Urban Industrial,0.24475194821654786
-194,195,Stapleton1,Urban Industrial,0.3908629784909278
-195,196,Castle Cement,Urban Industrial,0.4463845720982889
-196,197,Blaise Castle House,Urban Background,0.5151372633668004
-197,198,Brislington Depot,Urban Background,0.23829177684709527
-198,199,Little Stoke Parish Hall,Urban Background,0.602164424629761
-199,200,Terra UK site,Urban Industrial,0.6755919346194332
-200,201,Rupert Street,Urban Traffic,0.2976083440526908
-201,202,Dundry Hill,Rural Industrial,0.043720446821989896
-202,203,Hallen Village,Urban Background,0.5679451771803344
-203,204,IKEA M32,Urban Traffic,0.38364831771226887
-204,205,Rhone Poulenc,Urban Industrial,0.548030804709536
-205,206,Rhone Poulenc,Urban Industrial,0.5507246669864603
-206,207,Rhone Poulenc,Urban Industrial,0.5491305653075711
-207,208,Old Market,Urban Traffic,0.3001478466699926
-208,209,Port Health Office,Urban Industrial,0.49254010922903885
-209,210,Parson Street School,Urban Traffic,0.19897636804766453
-210,211,Poplar Farm,Rural Industrial,0.5464013507829667
-211,212,Port Health Office,Urban Industrial,0.4914868986051529
-212,213,Royal Portbury Docks quayside,Urban Industrial,0.46405806138072575
-213,214,Royal Portbury Docks cc,Urban Industrial,0.46110446982308395
-214,215,Royal Portbury Docks road,Urban Industrial,0.4565375755794295
-215,216,Blaise Castle House,Urban Background,0.5147096343163435
-216,217,Bristol North Baths,Urban Background,0.38165514565220376
-217,218,St. Matthias College,Urban Background,0.4211523624777097
-218,219,St Matthias College,Urban Background,0.41970996467425487
-219,220,The Vicarage Avonmouth,Urban Background,0.4963662891386284
-220,221,Wessex Water Avonmouth,Urban Industrial,0.5404155851936193
-221,222,Wessex Water Avonmouth,Urban Industrial,0.5404134294998821
-222,223,Temple Meads Station,Urban Traffic,0.2692219775757465
-223,224,South Liberty Lane Travellers Site,Urban Background,0.20685536683152425
-224,225,Parson Street School,Urban Traffic,0.20000790539892188
-225,226,West Town Road,Urban Traffic,0.45340819733849325
-226,227,A4 Portway N of P and R,Urban Traffic,0.4563096790402771
-227,228,A4 Portway S of P and R,Urban Traffic,0.44518003501752706
-228,229,A37 N of Airport Rd. Junction,Urban Traffic,0.18147054029139217
-229,230,A37 S of Airport Rd.Junction,Urban Traffic,0.17134107817146366
-230,231,A4174 East of Airport Rd Junction,Urban Traffic,0.17499640990621707
-231,232,A4174 West of Airport Rd. Junction,Urban Traffic,0.18064516172218076
-232,233,Parson Street School,Urban Traffic,0.19592496184948952
-233,234,Parson St. A38 East,Urban Traffic,0.19596245917181868
-234,235,Parson St. A38 West,Urban Traffic,0.1946241626201492
-235,236,Parson St. Bedminster Road,Urban Traffic,0.2011730600067415
-236,237,Parson Street Bedminster Down Road,Urban Traffic,0.1917504877724606
-237,238,Parson Street Chip Shop,Urban Traffic,0.1998647074210862
-238,239,Kingsweston Lane Central,Urban Traffic,0.5052593848843401
-239,240,Kingsweston Lane 100m N,Urban Traffic,0.508789553090556
-240,241,Kingsweston Lane 200m N,Urban Traffic,0.5139634760148829
-241,242,Kingsweston Lane 100m S,Urban Traffic,0.5021256666907346
-242,243,Kingsweston Lane 200m S,Urban Traffic,0.4991123891509755
-243,244,Lawrence Weston Road Central,Urban Traffic,0.5282970669831911
-244,245,Lawrence Weston Road 100m N,Urban Traffic,0.5306015295059733
-245,246,Lawrence Weston Road 200m N,Urban Traffic,0.5340766884580491
-246,247,Lawrence Weston Road 100m S,Urban Traffic,0.5250647193324384
-247,248,Lawrence Weston Road 200m S,Urban Traffic,0.5224459045400721
-248,249,Merchants Road Hotwells,Urban Traffic,0.27064684257678934
-249,250,Joy Hill Hotwells,Urban Traffic,0.27467881525577936
-250,251,Church Hotwells,Urban Traffic,0.2757146801610077
-251,252,Almshouses Hotwells,Urban Traffic,0.27378875927873453
-252,253,Stapleton Road North,Urban Traffic,0.39322275608703144
-253,254,Stapleton Road Middle,Urban Traffic,0.39006400644964395
-254,255,Stapleton Road South,Urban Traffic,0.3863611993226228
-255,256,Stapleton Road Heath Street,Urban Traffic,0.3743870538565493
-256,257,Stapleton Road Argyll Street,Urban Traffic,0.3671074294484525
-257,258,Gatton Road,Urban Traffic,0.3513231353157656
-258,259,Baptist Mills School,Urban Traffic,0.34896405403427877
-259,260,Elton Street Wellington Road,Urban Traffic,0.3187314627664419
-260,261,Cabot Primary School,Urban Traffic,0.32957913546361395
-261,262,Pritchard Street,Urban Traffic,0.3165929479811866
-262,263,Pilning Fire Station,Rural Industrial,0.7370924106960773
-263,264,South Liberty Lane RWS,Urban Traffic,0.183813957149144
-264,265,Wells Road,Urban Traffic,0.17812043116145468
-265,266,Trailer Portway P&R,Urban Traffic,0.4473956827240761
-266,267,Old Beaufort Club 1,Urban Traffic,0.2872418596444584
-267,268,Old Beaufort Club 2,Urban Traffic,0.28708566426724746
-268,269,Old Beaufort Club 3,Urban Traffic,0.28700772553982506
-269,270,B and W 3rd floor,Urban Traffic,0.2848618667948866
-270,271,B and W Top Floor,Urban Traffic,0.2841927081538573
-271,272,B and W Broad Quay,Urban Traffic,0.2845418416257509
-272,273,B and W Broad Quay2,Urban Traffic,0.28504844338680907
-273,274,Marsh St Derelict,Urban Traffic,0.28564189007850643
-274,275,Marsh St Derelict Garage,Urban Traffic,0.2863439745806577
-275,276,Rupert St Green Box,Urban Traffic,0.2976866006551467
-276,277,Project House GF,Urban Traffic,0.2878318036169128
-277,278,Project House 1F,Urban Traffic,0.28779283425392527
-278,279,Project House 2F,Urban Traffic,0.2877148955276731
-279,280,Project House 3F,Urban Traffic,0.28767592616443927
-280,281,William Street,Urban Traffic,0.2500305623163789
-281,282,Whitehouse Street,Urban Traffic,0.25009438075162854
-282,283,Avonmouth Primary School,Urban Background,0.4756023280905424
-283,284,Bear Pit Railing,Urban Traffic,0.31522615273067917
-284,285,Bear Pit Toilet Block,Urban Traffic,0.3145721754029244
-285,286,Traffic Light Avon House,Urban Traffic,0.31687514678195466
-286,287,Shop Parade,Urban Traffic,0.3129998561072046
-287,288,Bond St. Lamp post,Urban Traffic,0.3146699313876128
-288,289,Castle Court forecourt sainsburys,Urban Industrial,0.24838558259998128
-289,290,Lamppost   16 Ashley Road St. Pauls,Urban Traffic,0.34503439219837717
-290,291,Facade   383 Church Road Redfield,Urban Traffic,0.3189021815875019
-291,292,Facade St. Georges Library   Church Road St. George,Urban Traffic,0.31912329734754125
-292,293,Facade Ye Olde Flower Shop 218 Church Road St. George,Urban Traffic,0.31515750789751695
-293,294,Facade Haart Estate Agents 755 Fishponds Road Fishponds,Urban Traffic,0.40715198202267816
-294,295,Lamppost   717 Fishponds Road Fishponds,Urban Traffic,0.4034624580970789
-295,296,Facade Cafe Culture 597 Fishponds Road Fishponds,Urban Traffic,0.3918648902463345
-296,297,Facade   784 Muller Road Fishponds,Urban Traffic,0.37879110175521546
-297,298,Lamppost     Russell Town Avenue Redfield,Urban Traffic,0.308615961409326
-298,299,Lamppost     Sarah Street Redfield,Urban Traffic,0.30855376390455835
-299,300,Lamppost     Cottrell Road \ Muller Road Horfield,Urban Traffic,0.38361501060011965
-300,301,Lamppost     Glenfrome Road \ Muller Road Horfield,Urban Traffic,0.38476296357195894
-301,302,Lamppost     Muller Road Horfield,Urban Traffic,0.4044078798533708
-302,303,Lamppost     Muller Road \ Downend Road Horfield,Urban Traffic,0.42571524128277566
-303,304,Lamppost     Muller Road \ Filton Avenue Horfield,Urban Traffic,0.440236220280923
-304,305,Give Way sign  Chesterfield Rd \ Ashley Down Road St. Andrews,Urban Traffic,0.3738758284376098
-305,306,Lamppost     Ashley Hill St. Pauls,Urban Traffic,0.3567388842195262
-306,307,Lamppost     Hendre Road \ Winterstoke Road Ashton,Urban Traffic,0.20963141369610114
-307,308,Lamppost     Whiteladies Road \ Cotham Hill Clifton,Urban Traffic,0.33452964112025657
-308,309,Lamppost     M5 Lawrence Weston Road 25m from carriageway Avonmouth,Urban Traffic,0.5287165291947509
-309,310,Lamppost     M5 Lawrence Weston Road 50m from carriageway Avonmouth,Urban Traffic,0.529290087184337
-310,311,Monitor     A37 Wells Road Knowle,Urban Traffic,0.17812043116145468
-311,312,Monitor     Rupert Street City Centre,Urban Traffic,0.2976862827479011
-312,313,Monitor     Temple Way Temple Meads,Urban Traffic,0.2691848787369275
-313,314,Monitor     Bath Road Brislington,Urban Background,0.23833134044449356
-314,315,Monitor     Trailer Portway Park and Ride,Urban Traffic,0.4473956827240761
-315,316,Monitor     Castlemead City Centre,Urban Background,0.305322994350461
-316,317,Facade   742 Muller Road Fishponds,Urban Traffic,0.3809734847823613
-317,318,Facade   258 Fishponds Road Fishponds,Urban Traffic,0.3762682869997719
-318,319,Lamp post Roundabout poplar way,Urban Background,0.5723429833347554
-319,320,Lamp post bridge poplar way east,Urban Background,0.5704459938501983
-320,321,Lamp post industrial units entrance,Urban Background,0.5803009747772153
-321,322,Lamp post bridge poplar way west,Urban Background,0.583458073830921
-322,323,Days Road Kingsland Road,Urban Background,0.28622374732793565
-323,324,Days Road Chancery Street,Urban Background,0.2968040675783784
-324,325,Days Road Peters Terrace,Urban Background,0.3006605074455014
-325,326,Days Road Sarah Street,Urban Background,0.30530814757951286
-326,327,Days Road Oxford Street,Urban Background,0.28320071189514157
-327,328,Hartcliffe Hilltop Farm,Urban Background,0.16452186765032267
-328,329,Hartcliffe Novers Hill,Urban Background,0.16768061657337777
-329,330,Hartcliffe Crantock Avenue,Urban Background,0.16250474077381172
-330,331,Hartcliffe Novers Park Drive 1,Urban Background,0.1731567875959918
-331,332,Hartcliffe Novers Park Drive 2,Urban Background,0.1746731643042094
-332,333,Hengrove Whitchurch Lane,Urban Background,0.1124256983892602
-333,334,Hengrove Hawkfield Road,Urban Background,0.10863209954510526
-334,335,Hengrove Rowacres,Urban Background,0.12128616964748583
-335,336,Hengrove Inns Court Drive,Urban Background,0.13106611877513868
-336,337,Hartcliffe A4174,Urban Background,0.16695863143878562
-337,338,Hengrove Hengrove Leisure Park,Urban Background,0.12446416030498658
-338,339,Hengrove Penrose,Urban Background,0.13586000981347848
-339,340,153 Muller Road Façade,Urban Traffic,0.4220998952851386
-340,341,M4 J18 Climbing Lane Near Springs Farm,Urban Traffic,0.4951431266845504
-341,342,M4 j19 - 20 widening North East Green Acres Farm,Urban Traffic,0.6063050359943514
-342,343,M4 j19 - 20 widening SW1 Palmers Leaze,Urban Traffic,0.6089808709903071
-343,344,M4 j19 - 20 widening SW1 Ormond Close,Urban Traffic,0.6723699956583393
-344,345,M5 J16 - 17 N Chillington Court,Urban Traffic,0.6628667755095143
-345,346,M5 J16 - 17 S Falcon Close,Urban Traffic,0.6400340464781936
-346,347,M5 J17 - 18 Hallen Hill - Hollywood Lane S of M5,Urban Traffic,0.6070358302514187
-347,348,M5 J19 - 20 Naish Hill - Station Road S of M5,Urban Traffic,0.38681300073128916
-348,349,M5 J19 - 20 Tickenham Hill Housing Adjacent to J20,Urban Traffic,0.1888155921966053
-349,350,M5 J19 - 20 Tickenham Hill N of J20,Urban Traffic,0.2294760250723499
-350,351,M5 J19 - 20 Tickenham Hill EXTRA GRADIENT,Urban Traffic,0.2553081066479241
-351,352,M5 J17 - 18 Hallen Hill EXTRA GRADIENT,Urban Traffic,0.568917237813347
-352,353,5102 façade,Urban Traffic,0.3174169411990952
-353,354,St. Matthias House façade,Urban Traffic,0.3071928991732731
-354,355,Unite façade,Urban Traffic,0.30395595293466826
-355,356,Broad Weir post development,Urban Traffic,0.30414610468287906
-356,357,River Street facade 1,Urban Traffic,0.31093693035641257
-357,358,River Street facade 2,Urban Traffic,0.31384080580546936
-358,359,Wellington Road post development,Urban Traffic,0.3144516129176256
-359,360,Great George Street lamppost,Urban Traffic,0.3137384433444775
-360,361,Lamb Street façade,Urban Traffic,0.30829448754005523
-361,362,Avon Street Temple Way junction post development,Urban Traffic,0.28767049308466835
-362,363,123 Newfoundland Street façade,Urban Traffic,0.3239007726793836
-363,364,St. Paul Street,Urban Traffic,0.3168513898392047
-364,365,Newfoundland Road Police Station,Urban Traffic,0.32032296046656034
-365,366,Hallen,Rural Industrial,0.5556226245465323
-366,367,A4174 UWE,Urban Traffic,0.513553644651074
-367,368,Easton Business Park,Urban Background,0.32891887022790106
-368,369,Dundry,Urban Background,0.043720446821989896
-369,370,Orange Street Façade,Urban Traffic,0.31979244746068153
-370,371,No. 6 Borewell,Urban Industrial,0.5348088586229491
-371,372,Wessex Water,Urban Industrial,0.5356733185668096
-372,373,No. 6 Borewell,Urban Industrial,0.5356718792196365
-373,374,Anstee and Ware,Urban Industrial,0.5209844762524768
-374,375,Atwood Drive,Urban Background,0.521708480680004
-375,376,Sevalco Roadside,Urban Background,0.6297609086676499
-376,377,Start of Cutting Northbound carriageway Hallen Large Lamppost,Urban Traffic,0.5647933638420926
-377,378,Property Boundary Oakhill Lane M5 South carriageway rear garden,Urban Traffic,0.5586760173109288
-378,379,Station Road facing Mway closest property to carriageway,Urban Traffic,0.38580682885742945
-379,380,Station road two doors down from HA-NEW-3,Urban Traffic,0.3841015688384304
-380,381,Junction of priory road with station road Lamppost,Urban Traffic,0.3860927353935977
-381,382,Cole Acre North of M5 over footbridge Lamppost,Urban Traffic,0.39124885991611286
-382,383,Substation Post Nearest M5 Station Road,Urban Traffic,0.38721040025077974
-383,384,Sevalco North (on site),Urban Industrial,0.6394823152642561
-384,385,Shiner's Garage,Urban Traffic,0.3078371776040355
-385,386,Avonmouth Rd No 28 on facia,Urban Traffic,0.4734245520984844
-386,387,facade avonmouth road underpass - house to SE,Urban Traffic,0.4720162906930879
-387,388,Avonmouth Rd No 31 on facia,Urban Traffic,0.4743651158099942
-388,389,facade house on portway M5 underpass,Urban Traffic,0.46150321076530154
-389,390,facade west town lane M5 underpass,Urban Traffic,0.4572551487620649
-390,391,facade ashton road - house closest UP,Urban Traffic,0.23474743988651026
-391,392,Bath Rd No 23 lamppost 48 (opp Book Barn),Urban Traffic,0.2422556236742558
-392,393,Lamp post 48 230 Bath Road,Urban Traffic,0.24237708255636636
-393,394,shiners garage triplicate QAQC tubes contin,Urban Traffic,0.30780448373450975
-394,395,Whitehall Rd/Easton Rd lamppost 4TZ,Urban Traffic,0.3230892309408792
-395,396,Whitehall Rd lamppost 17 nr juction with Chalks Rd,Urban Traffic,0.32569978131160937
-396,397,lamppost sussex place,Urban Traffic,0.34715180472520935
-397,398,Cotham Brow/Cheltenham Rd existing site junction,Urban Traffic,0.3547226942514268
-398,399,facade cotham brow arches elysee guest house,Urban Traffic,0.35799727368612877
-399,400,facade cotham girls school cheltenham rd,Urban Traffic,0.3509892264270067
-400,401,facade 21 bath buildings,Urban Traffic,0.34451764446149113
-401,402,facade cromwell road west,Urban Traffic,0.35795156761657304
-402,403,Wells Rd bus lane sign just below junction with Knowle Rd,Urban Traffic,0.23568858549452287
-403,404,facade junction brecknock road with a37,Urban Traffic,0.2292376639394564
-404,405,facade junction hengrove road with a37,Urban Traffic,0.2134795681715173
-405,406,Wells Rd - Knowle shopping centre lamppost 41 (outside Miss Millies),Urban Traffic,0.1961740430201236
-406,407,St John's Lane No 26 lamppost 15 (just past roundabout),Urban Traffic,0.23186092538691733
-407,408,Bedminster Down Rd lamppost between Ashton Motors & Plough PH,Urban Traffic,0.2012156186828615
-408,409,Parson St lamppost outside Bristol Scuba,Urban Traffic,0.20296103300770837
-409,410,North St/Dean Lane on roundabout sign,Urban Traffic,0.23723861724075454
-410,411,North St/Langton Park T junction,Urban Traffic,0.23576186736159063
-411,412,facade BRI children's,Urban Traffic,0.30842782458780305
-412,413,facade BRI main building,Urban Traffic,0.31305291291878223
-413,414,Ashley Rd P sign outside International Market (nr Dalrymple Rd),Urban Traffic,0.3388874062842185
-414,415,City Rd/Ashley Rd lamppost No 16,Urban Traffic,0.33859879758510425
-415,416,Fishponds Rd lamppost 37 outside PO (just before Oakdene Ave),Urban Traffic,0.37609084866551606
-416,417,Fishponds Rd/Elmgrove Rd lamppost 53 (outside video centre),Urban Traffic,0.38657635510246563
-417,418,facade villiers road stapleton road junction,Urban Traffic,0.336713742553948
-418,419,Gaol Ferry Bridge,Urban Traffic,0.2574361704815971
-419,420,Cannon's Road,Urban Traffic,0.27150420345381276
-420,421,16 Lower Ashley Road,Urban Traffic,0.34503162015829225
-421,422,Bristol Scuba,Urban Traffic,0.2036997917501866
-422,423,Whitehall Rd/Easton Rd lamppost 4TZ,Urban Traffic,0.32320882140046003
-423,424,Old Market,Urban Traffic,0.3000377794360299
-424,425,Shiners Garage,Urban Traffic,0.3078803305224807
-425,426,Almondsbury School,Rural Industrial,0.7209018815546897
-426,427,A37 Junction w/ Airport Road,Urban Traffic,0.17812043116145468
-427,428,Parson Street School,Urban Traffic,0.19897636804766453
-428,429,Littlestoke Parish Hall,Urban Background,0.602164424629761
-429,430,Avon Probation Service,Urban Traffic,0.32032296046656034
-430,431,Former Shell Tank Farm,Rural Industrial,0.6452700822907469
-431,432,CREATE Roof,Urban Background,0.2619813478911911
-432,433,13 Passage Road,Urban Traffic,0.47067381312135403
-433,434,CH Ramp North,Urban Traffic,0.3578205080139465
-434,435,Council House Ramp South,Urban Traffic,0.2824789764723366
-435,436,Bath Road,Urban Traffic,0.24171620039766006
-436,437,Economy Cars,Urban Traffic,0.24171620039766006
-437,438,Eastgate Market,Urban Traffic,0.37608316093551253
-438,439,Industrial Museum,Urban Industrial,0.2631737431874359
-439,440,Hallen Village,Urban Traffic,0.5672430791107957
-440,441,AURN St Pauls,Urban Background,0.3296657839435864
-441,442,Exclusively Yours LAR,Urban Traffic,0.34533166309658925
-442,443,Teoh's LAR,Urban Traffic,0.34466070416098477
-443,444,St. Pauls Day Nursery,Urban Background,0.32966547257958334
-444,445,Newfoundland Way Police Station,Urban Traffic,0.3202447115172475
-445,446,Holesmouth New,Urban Traffic,0.5845490272657211
-446,447,62 Callington Road,Urban Traffic,0.1926389748008681
-447,448,Cheltenham Road \ Station Road,Urban Traffic,0.35614388177875755
-448,449,Cheltenham Road \ Station Road,Urban Traffic,0.35614388177875755
-449,450,Millpond School Fence,Urban Traffic,0.3486848892726322
-450,451,Millpond School play area,Urban Traffic,0.34775085846943377
-451,452,Fishponds Road,Urban Traffic,0.39560994685014966
-452,453,Fishponds Road,Urban Traffic,0.3956881684446538
-453,454,North Street School fence,Urban Traffic,0.24282550534049563
-454,455,Savanna coffee drainpipe,Urban Traffic,0.23931383048351143
-455,456,Strada Exeter Road,Urban Traffic,0.23603506117627138
-456,457,façade of North Street near Myrtle Street,Urban Traffic,0.23183697282713472
-457,458,Lamppost corner park avenue,Urban Traffic,0.22016152211766624
-458,459,Victoria Park Primary,Urban Traffic,0.21551943611883156
-459,460,property façade nr. Paultow Road,Urban Traffic,0.21544973500334771
-460,461,Jamiesons Autos,Urban Traffic,0.22638977848101033
-461,462,B&G Snax West St,Urban Traffic,0.22011633172533274
-462,463,Martial Arts West Street,Urban Traffic,0.21442951569718288
-463,464,18 Morton Street,Urban Traffic,0.3060098736517632
-464,465,Elmgrove Ave,Urban Traffic,0.3310761746228934
-465,466,rear 32 st marks grove,Urban Traffic,0.3499619582945798
-466,467,T shirt Shop W. Town Lane,Urban Traffic,0.19495414022160257
-467,468,cycle sign lamppost,Urban Traffic,0.1947086355404864
-468,469,Halston Drive,Urban Traffic,0.3315672038123448
-469,470,CREATE Centre Roof,Urban Background,0.2619813478911911
-470,471,Avonmouth Road - Lampost (20) Opposite Number Hse No 45,Urban Traffic,0.4767623768405508
-471,472,Avonmouth Road - Lampost (19) Opposite Hse No 37,Urban Traffic,0.47580065484510886
-472,473,Avonmouth Road - School Sign Opposite Hse No 16,Urban Traffic,0.47210954516915693
-473,474,Avonmouth Road - Telegraph Pole Opposite Hse No 4,Urban Traffic,0.4706801839670062
-474,475,Barracks's Lane - Telegraph Pole No 6. End of Lane Left Hand Side,Urban Traffic,0.48070324077680576
-475,476,Junction 3 Millpond Street,Urban Traffic,0.34560323426498607
-476,477,Junction 3 Easton Way,Urban Traffic,0.3441887334908783
-477,478,Avonmouth Road Outside No 12,Urban Traffic,0.47172498606477553
-478,479,Avon School Barrack's Lane,Urban Traffic,0.4733404593160097
-479,480,Avonmouth Road Outside No 76,Urban Traffic,0.467704533975173
-480,481,On 1 way sign at bottom of Wellington Hill,Urban Traffic,0.4349820476955197
-481,482,No 67 Filton Avenue on wall facing Muller Rd,Urban Traffic,0.4401589050720888
-482,483,Muller Road - Adjacent to Darnley Avenue,Urban Traffic,0.44370698233997874
-483,484,On green fence surrounding Western Power substation (?) adjacent to No.1 Dorian Road,Urban Traffic,0.4627372218496315
-484,485,385 Church Road Redfield,Urban Traffic,0.318661447891096
-485,486,20 Ashley Road,Urban Traffic,0.3377026671342076
-486,487,Hungerford Road,Urban Traffic,0.17213255692107896
-487,488,Temple Way Nox site,Urban Traffic,0.3085159895852311
-488,489,Temple Way,Urban Traffic,0.3085159895852311
-489,490,Colston Avenue,Urban Traffic,0.29689830941111856
-490,491,Co-located Colston Ave,Urban Traffic,0.29689830941111856
-491,492,Sea mills pharmacy no stopping sign,Urban Background,0.424901429705145
-492,493,Avonmouth primary,Urban Background,0.46985303823172225
-493,494,Henbury school,Urban Traffic,0.5306983149712438
-494,495,Woodstock school,Urban Background,0.5191757616654236
-495,496,Blaise school,Urban Traffic,0.5233086004208758
-496,497,Orchard school,Urban Traffic,0.4863207508153796
-497,498,Filton avenue primary,Urban Traffic,0.4490416771070538
-498,499,Ashley down primary,Urban Traffic,0.41989719942575804
-499,500,Sefton park,Urban Traffic,0.3791099096862837
-500,501,Colston girls,Urban Traffic,0.3493173847100713
-501,502,Cabot primary,Urban Background,0.3293728403710583
-502,503,St. Barnabas,Urban Background,0.3491404759716478
-503,504,St. Werburghs park nursery,Urban Traffic,0.36682930475375847
-504,505,Fairfield high school,Urban Background,0.3849730828132998
-505,506,Glenfrome primary,Urban Background,0.39697320716873885
-506,507,Fishponds c of e,Urban Traffic,0.4007717097253041
-507,508,Briarwood school,Urban Traffic,0.394468019927413
-508,509,St. Joseph's RC primary,Urban Traffic,0.3760587814327766
-509,510,Chester park infants,Urban Traffic,0.38050433451583665
-510,511,May park primary,Urban Background,0.3700215267441729
-511,512,Bannerman road,Urban Background,0.33570718067208405
-512,513,City academy,Urban Traffic,0.3162904504901229
-513,514,Summer hill a420,Urban Traffic,0.32131812152377254
-514,515,Summer hill Plummers hill,Urban Traffic,0.3238066469083439
-515,516,St patricks,Urban Traffic,0.3056768236219218
-516,517,Redfield educate together,Urban Traffic,0.3084331951981687
-517,518,Bristol futures academy,Urban Traffic,0.2953285368883923
-518,519,Barton Hill Academy,Urban Traffic,0.2889665500461919
-519,520,Easton c of e academy,Urban Background,0.3207330950736921
-520,521,St. Nicholas of tolentine,Urban Traffic,0.3141272825857093
-521,522,Hannah more front,Urban Traffic,0.2903689048536617
-522,523,Hillcrest primary,Urban Traffic,0.22874814834407486
-523,524,West town lane academy,Urban Traffic,0.1802163282585952
-524,525,St Mary redcliffe secondary,Urban Traffic,0.2550954099888364
-525,526,St Mary redcliffe primary,Urban Background,0.23989099362222938
-526,527,Dalby avenue,Urban Traffic,0.2340943971139291
-527,528,Dalby avenue church lane,Urban Traffic,0.23067830498722572
-528,529,Compass point,Urban Traffic,0.22273761701495762
-529,530,Holy cross primary,Urban Traffic,0.24508328412198838
-530,531,Southville primary,Urban Traffic,0.24543567782642342
-531,532,Southville primary Myrtle street,Urban Background,0.23470486628485981
-532,533,Ashton gate primary,Urban Traffic,0.24336581288743694
-533,534,Ashton park school,Urban Traffic,0.23170591212560165
-534,535,HotWells primary,Urban Background,0.2774422904148689
-535,536,St George's primary,Urban Background,0.27996854469325333
-536,537,St Michaels on the mount,Urban Background,0.30117067382853985
-537,538,Real sounds studios silver street,Urban Traffic,0.30649560300062606
-538,539,Cathedral School,Urban Traffic,0.27821831230021404
-539,540,Cod Almighty downpipe,Urban Traffic,0.49508051217641486
-540,541,Bell Hill,Urban Traffic,0.40396054574913454
-541,542,Glenfrome Road lamppost by M32 Bridge,Urban Traffic,0.39832779872266094
-542,543,Nelson Street,Urban Traffic,0.3019020196001962
-543,544,420 Hotwell Road A4,Urban Traffic,0.27673657814980546
-544,545,South Eastern stair access Plimsoll Bridge,Urban Traffic,0.26564072837633035
-545,546,Talbot Road 20mph lamppost,Urban Traffic,0.20395857839302117
-546,547,Coronation Road Walter Street No Entry,Urban Traffic,0.25110374275953273
-547,548,Except local buses sign Blackmoors Lane,Urban Traffic,0.23735273598320944
-548,549,Lamppost outside BRI CAZ,Urban Traffic,0.31050655901696955
-549,550,Lamppost opposite BRI CAZ,Urban Traffic,0.31020211486639915
-550,551,Lamp post near Queens Head pub South Bristol link,Urban Traffic,0.10556570055968625
-551,552, Lamp post at junction with Highridge rd. near Cox brothers garage. South Bristol link.,Urban Traffic,0.11020223843813591
-552,553,Westbury on Trym High Street Lamp post by Athena restaurant,Urban Traffic,0.46644133076132505
-553,554,A4018 Lamp post by layby before roundabout for Crow Ln/ Knole Ln,Urban Traffic,0.5306772950323875
-554,555,AQ Mesh Temple Way,Urban Traffic,0.3085159895852311
-555,556,Muller road/ Glenfrome road junction north,Urban Traffic,0.38541969462235964
-556,557,Traffic light on the corner of Shaldon road,Urban Traffic,0.4021643381593307
-557,558,Lampost on North corner of Draycott road junction with Muller road.,Urban Traffic,0.41792456467776284
-558,559,Muller road junction with Downend road lampost north of the junction.,Urban Traffic,0.4277808312951402
-559,560,Muller road junction with Downend road traffic light to the south of the junction.,Urban Traffic,0.42669004788890125
-560,561,St. Werburghs,Urban Background,0.3795629047849019
-561,562,Bristol Airport,Suburban Industrial,0.0
-562,563,"Whiteladies road, on loading sign next to Redland library",Urban Traffic,0.3409747949204355
-563,564,Baldwin Street traffic light outside domino's,Urban Traffic,0.28876802164769844
-564,565,"Baldwin Street lamp post by cycle way, opp St Stephens St",Urban Traffic,0.28852919334797417
-565,566,High St lamp post outside Wards solicitors,Urban Traffic,0.292744160677919
-566,567,Church Road-CAZ-Outside Gurdwara,Urban Traffic,0.31589440759709636
-567,568,Church Road-CAZ-Lamppost,Urban Traffic,0.3172282451017787
-568,569,Marlborough St-CAZ-Lamppost opposite hosp,Urban Traffic,0.3140030975796619
-569,570,Marlborough St-CAZ-Lamppost by coach station,Urban Traffic,0.31584445622938984
-570,571,Rupert St-CAZ-Post outside fire station,Urban Traffic,0.30644809942324136
-571,572,Rupert St-CAZ-Post outside police station,Urban Traffic,0.30671361049041446
-572,573,Rupert St-CAZ-Post outside Fusion Tower,Urban Traffic,0.3041888496313228
-573,574,Park St-CAZ-Lamppost by Guild,Urban Traffic,0.29519626186629555
-574,575,Park St-CAZ-Lamppost by Agora,Urban Traffic,0.2939502073885694
-575,576,Baldwin St-CAZ-Lamppost by Yelland House,Urban Traffic,0.2893896884605336
-576,577,Baldwin St-CAZ-Drainpipe on building,Urban Traffic,0.2883175375485152
-577,578,Marlborough St-CAZ-On sign leg,Urban Traffic,0.31707281439524143
-578,579,Marlborough St-CAZ-Post by bollards,Urban Traffic,0.31639132914519075
-579,580,Marlborough St-CAZ-Post,Urban Traffic,0.31585082871548736
-580,581,Upper Maudlin St-CAZ-Crossing by BRI,Urban Traffic,0.30933652531542993
-581,582,Upper Maudlin St-CAZ-Post by BRI,Urban Traffic,0.3070207907177185
-582,583,Lower Park Row-CAZ-Post by Art shop,Urban Traffic,0.302478044518705
-583,584,Lower Park Row-CAZ-Post after OTR,Urban Traffic,0.3010266089963517
-584,585,Park Row-CAZ-Lamppost by museum,Urban Traffic,0.2980007359199482
-585,586,Park Row-CAZ-Post by house,Urban Traffic,0.2981476581622976
-586,587,Queens Road-CAZ-Lamppost by UoB,Urban Traffic,0.30029803634105207
-587,588,Park St-CAZ-Lamppost by bike stands,Urban Traffic,0.2980226875689976
-588,589,Park St-CAZ-Lamppost by City Hall,Urban Traffic,0.2877558726057205
-589,590,College Green-CAZ-Lamppost opp Denmark St,Urban Traffic,0.2862741273767242
-590,591,Anchor Road-CAZ-Lamppost,Urban Traffic,0.2799310987447426
-591,592,Lewins Mead-CAZ-Post by Evans Cycles,Urban Traffic,0.30590159778707054
-592,593,Lewins Mead-CAZ-Post by PMT,Urban Traffic,0.3067747711964017
-593,594,Rupert St-CAZ-Post by Courtrooms,Urban Traffic,0.3022618996640486
-594,595,Victoria Street-CAZ-No entry sign,Urban Traffic,0.28586717234062736
-595,596,Counterslip-CAZ-Drainpipe on building,Urban Traffic,0.28678200454564934
-596,597,Temple Gate-CAZ-Lamppost,Urban Traffic,0.2660134448584675
-597,598,Bath Road-CAZ-Lamppost or sign,Urban Traffic,0.25928786199196835
-598,599,Wells Road-CAZ-Lamppost,Urban Traffic,0.23722392607095436
-599,600,Winterstoke Road-CAZ-Lamppost,Urban Traffic,0.20606259049863554
-600,601,Newfoundland St-CAZ-Lamppost by layby,Urban Traffic,0.31527582830253525
-601,602,Newfoundland St-CAZ-Lamppost by crossing,Urban Traffic,0.31519339145892544
-602,603,Temple Way-CAZ-Sign by Champ Square,Urban Traffic,0.3082413364432895
-603,604,Newfoundland Way-CAZ-Lamppost by petrol station,Urban Traffic,0.32052214979333454
-604,605,Newfoundland Way-CAZ-Road sign,Urban Traffic,0.32167952170707587
-605,606,Houlton St-CAZ-30mph sign,Urban Traffic,0.316594616973616
-606,607,Cheltenham Rd-CAZ-Sign opp Tesco,Urban Traffic,0.33978882519196324
-607,608,Cheltenham Rd-CAZ-Lamppost by Bite,Urban Traffic,0.3383183719723451
-608,609,Lower Ashley Rd-CAZ-Lamppost by grass,Urban Traffic,0.34436216921096086
-609,610,Gloucester Rd-CAZ-Lamppost by bus stop,Urban Traffic,0.4104516183623557
-610,611,Bedminster Rd-CAZ-Lamppost opp school,Urban Traffic,0.1997531343816661
-611,612,Bedminster Rd-CAZ-Lamppost by school,Urban Traffic,0.19956636506982825
-612,613,Bedminster Rd-CAZ-Post opp Van Sales,Urban Traffic,0.1956825578772827
-613,614,Bedminster Rd-CAZ-Lamppost by Van Sales,Urban Traffic,0.19626188179037893
-614,615,Bedminster Rd-CAZ-Post,Urban Traffic,0.19433458222085617
-615,616,Parson St-CAZ-Lamppost by Station,Urban Traffic,0.20186897257379008
-616,617,Lower Ashley Rd-CAZ-Lamppost by Geo Jones,Urban Traffic,0.3458094645206095
-617,618,Lower Ashley Rd-CAZ-Lamppost opp London Rd,Urban Traffic,0.3456260117831842
-618,619,Bedminster Down Rd-CAZ-Lamppost by billboard,Urban Traffic,0.19210870867088073
-619,620,Bedminster Down Rd-CAZ-Roadsign by Winterstoke,Urban Traffic,0.20191443089566466
-620,621,West St-CAZ-Lamppost by Argus Rd,Urban Traffic,0.21772910688508748
-621,622,West St-CAZ-Lamppost opp Jamiesons,Urban Traffic,0.22697137233448839
-622,623,Bedminster Parade-CAZ-Lamppost by William Hill,Urban Traffic,0.24437155544314826
-623,624,York Rd-CAZ-Sign after bridge,Urban Traffic,0.25308896132873376
-624,625,Bath Rd-CAZ-Lamppost by Bus Lane,Urban Traffic,0.2485163765126077
-625,626,Bath Rd-CAZ-Lamppost by Kings Road,Urban Traffic,0.2314416783106071
-626,627,A4044 Roundabout-CAZ-Lamppost,Urban Traffic,0.299272779463997
-627,628,Victoria St-CAZ-Lamppost opp Mitchell Lane,Urban Traffic,0.2793421961191324
-628,629,Lamb Street-CAZ-One way sign by Church,Urban Traffic,0.3061836528620195
-629,630,Stokes Croft-CAZ-Lamppost,Urban Traffic,0.3327831493846053
-630,631,Ashley Road-CAZ-Lamppost opp Drumd Rd,Urban Traffic,0.338601469219396
-631,632,Sussex Place-CAZ-Lamppost,Urban Traffic,0.34835614800291653
-632,633,Ashley Down Rd-CAZ-Lamppost,Urban Traffic,0.3756290751256379
-633,634,Gloucester Rd-CAZ-Lamppost opp Baths,Urban Traffic,0.38154612085721684
-634,635,Cheltenham Rd-CAZ-Post by Papa Johns,Urban Traffic,0.3491253811665588
-635,636,Merchants Rd-CAZ-Lamppost by house,Urban Traffic,0.26951873997137893
-636,637,Wells Rd-CAZ-Lamppost by Red Lion Carpets,Urban Traffic,0.18439498213843494
-637,638,Bath Rd-CAZ-Lamppost,Urban Traffic,0.20114964574840116
-638,639,Wells Rd-CAZ-Lamppost,Urban Traffic,0.19461769671437099
-639,640,Church Rd-CAZ-Post by Barwaaqo Cafe,Urban Traffic,0.3295014433334145
-640,641,Whitehall Rd-CAZ-Lamppost by house,Urban Traffic,0.32505703858589896
-641,642,Stapleton Rd-CAZ-Lamppost by house,Urban Traffic,0.33816500682595946
-642,643,Mina Rd-CAZ-Lamppost by house,Urban Traffic,0.3485538815309164
-643,644,Muller Rd-CAZ-Lamppost opp LA DT,Urban Traffic,0.3800732019855804
-644,645,Stapleton Rd-CAZ-Lamppost,Urban Traffic,0.38947889859074275
-645,646,Fishponds Rd-CAZ-Lamppost,Urban Traffic,0.377206160275877
-646,647,Fishponds Rd-CAZ-Lamppost,Urban Traffic,0.40402323946766194
-647,648,Muller Rd-CAZ-Lamppost,Urban Traffic,0.43800644075914213
-648,649,Muller Rd-CAZ-Lamppost,Urban Traffic,0.3841841584977971
-649,650,Linden Rd-CAZ-Lamppost by house,Urban Traffic,0.3956805347657984
-650,651,Linden Rd-CAZ-Lamppost by house,Urban Traffic,0.39925468900261674
-651,652,Whiteladies Rd-CAZ-Lamppost after petrol station,Urban Traffic,0.3616139703052619
-652,653,Westbury Rd-CAZ-Lamppost by hospital,Urban Traffic,0.3705995585624308
-653,654,Upper Maudlin St-CAZ-Lamppost opp BRI,Urban Traffic,0.30918478079141737
-654,655,Upper Maudlin St-CAZ-Lamppost by BRI,Urban Traffic,0.3099939156081195
-655,656,College Green-CAZ-Post by Toni&Guy,Urban Traffic,0.28567938464356074
-656,657,Clift House Road-CAZ-Telegraph pole clift house road,Urban Traffic,0.24984210786119748
-657,658,Temple Way Bridge-CAZ-Lamppost Temple Way Bridge,Urban Traffic,0.2840787721410122
-658,659,Bristol Hill-CAZ-Lamppost Bristol Hill,Urban Traffic,0.20432382752158243
-659,660,North View Downs Park West,Urban Traffic,0.40135617592220363
-660,661,Marlborough Street,Urban Traffic,0.31368309125998806
-661,662,Marlborough Street - co - located,Urban Traffic,0.31368309125998806
-662,663,Troopers Hill Opposite No 30,Urban Background,0.30312487687339096
-663,664,Netham Lock Junction,Urban Background,0.28370299766649226
-664,665,Blackswarth Road Opposite St Patrick's School,Urban Background,0.3056774102367259
-665,666,Beaufort Road Opposite No 109,Urban Background,0.30808469066040545
-666,667,Victoria Avenue Opposite No 90,Urban Background,0.3052314137592713
-667,668,Avonvale Road Opposite Bristol Futures Academy,Urban Background,0.2954850090848497
-668,669,Morely Street/Bright Street Ped Crossing,Urban Background,0.3016330182090601
-669,670,Russel Town Avenue Opposite Pheonix Social Enterprise Club,Urban Background,0.3151978294823501
-670,671,Church Road Miss Millies,Urban Traffic,0.31215263261686776
-671,672,Victoria Parade Opposite No 39,Urban Background,0.3182978982081387
-672,673,Lyppiatt Road Opposite No 25,Urban Background,0.31853577139065903
-673,674,Stapleton Road HE,Urban Traffic,0.39018090901192337
-674,675,Glenfrome Road stonewall LP HE,Urban Traffic,0.39832779872266094
-675,676,B4058 East of M32 stonewall LP HE,Urban Traffic,0.4039998106339359
-676,677,Napier Road 20mph LP HE,Urban Traffic,0.3664570572658261
-677,678,505 Stapleton Road Easton LP HE,Urban Traffic,0.36808162769273295
-678,679,Stapleton Rd Freemantle rd LP HE,Urban Traffic,0.3765401082957259
-679,680,Stapleton Rd Heath St Cycles sign HE,Urban Traffic,0.37407560791380295
-680,681,New Gatton Rd barrier LP HE,Urban Traffic,0.3522157140557558
-681,682,Stairway bridge M32 J3 HE,Urban Traffic,0.35002378910079396
-682,683,Fox Rd 26 LP HE,Urban Traffic,0.34973876743446725
-683,684,Lower Ashley Rd Millpond Sch LP HE,Urban Traffic,0.34469723362505816
-684,685,Mina Rd M32 AAPEX LP HE,Urban Traffic,0.34789905196053356
-685,686,Gable Rd M32 barrier LP HE,Urban Traffic,0.3476869086113509
-686,687,Portway - Sylvan Way,Roadside,0.4318739567645661
-687,688,Portway - Roman Way,Roadside,0.3999345150992146
-688,689,Portway - Bridge Valley Road,Roadside,0.31071994863947716
-689,690,Blackboy Hill_Traffic light on pedestrian crossing,,0.3566820375028325
-690,691,Lamb Street_CAZ signpost by George Jones Park,,0.3084175745980276
-691,692,Sussex Place_No loading signpost,,0.34738562024792935
-692,693,Bedminster Down Rd junction with Winterstoke Close_CAZ,,0.20156209850272414
-693,694,A4044 Roundabout_Traffic Light,,0.2990804241623356
-694,695,Speedwell Road_near Wackum Inn,,0.3423983703398913
-695,696,Rodney Road junction with Whiteway Road,,0.34033735583036584
-696,697,Whiteway Road junction with A420,,0.32408999414298645
-697,698,Air Balloon Hill Primary School,,0.3112131521141845
-698,699,Nags Head Hill,,0.2922456687934806
-699,700,Barton Hill Academy,,0.2917060986469686
+id,SiteID,location,Location Type,coordinates,Pollutants,Elevation,Longitude,Latitude,Latitude (Normalised)
+1,1,Withywood School,Urban Traffic,"[-2.6277488032062446, 51.407745517999835]",BTX NO2,,-2.6277488032062446,51.407745517999835,0.0909330382676792
+2,2,Colston Avenue,Urban Traffic,"[-2.5968139474821794, 51.454556566902696]",NO2,9.5,-2.5968139474821794,51.454556566902696,0.2938159127984107
+3,3,Blackboy Hill,Urban Traffic,"[-2.613994167991525, 51.46920548941127]",NO2,79.2,-2.613994167991525,51.46920548941127,0.357305528540315
+4,4,Three Lamps,Urban Traffic,"[-2.578333463205696, 51.444209895530584]",NO2,26.6,-2.578333463205696,51.444209895530584,0.2489726016785307
+5,5,Bedminster Parade,Urban Traffic,"[-2.595294420664777, 51.442812042759506]",NO2,8.1,-2.595294420664777,51.442812042759506,0.2429141946354523
+6,6,Church Road,Urban Traffic,"[-2.558965289247974, 51.458358093425005]",NO2,23.6,-2.558965289247974,51.458358093425005,0.3102920364172479
+7,7,St. Andrew's Rd,Urban Traffic,"[-2.6971476452140064, 51.50110981955063]",NO2,6.8,-2.6971476452140064,51.50110981955063,0.49558147749590986
+8,8,Higham Street,Urban Background,"[-2.579303486860559, 51.44468165952045]",NO2,35.8,-2.579303486860559,51.44468165952045,0.25101726499215116
+9,9,B.R.I.,Urban Traffic,"[-2.5954175081992816, 51.45895176376313]",NO2,19.9,-2.5954175081992816,51.45895176376313,0.312865051710554
+10,10,Bath Road,Urban Traffic,"[-2.5593809324143635, 51.440516404879745]",NO2,20.3,-2.5593809324143635,51.440516404879745,0.23296471427037527
+11,11,Whitefriars,Urban Traffic,"[-2.594190185154556, 51.45754626447907]",NO2,8.5,-2.594190185154556,51.45754626447907,0.3067735040613447
+12,12,Galleries,Urban Traffic,"[-2.5894399544611586, 51.45639234685148]",NO2,12.5,-2.5894399544611586,51.45639234685148,0.3017723316726845
+13,13,Ferndown Close,Urban Background,"[-2.656900421884163, 51.49450001199961]",NO2,69.1,-2.656900421884163,51.49450001199961,0.46693403661442573
+14,14,Red Lion Knowle,Urban Traffic,"[-2.5641445698086747, 51.43016217223045]",NO2,60.6,-2.5641445698086747,51.43016217223045,0.18808863196323813
+15,15,Horsefair,Urban Traffic,"[-2.5872839459753796, 51.4588669853932]",NO2,10.3,-2.5872839459753796,51.4588669853932,0.31249761539385457
+16,16,Third Way,Urban Traffic,"[-2.688839013557719, 51.50518715900643]",NO2,7.6,-2.688839013557719,51.50518715900643,0.5132529966910423
+17,17,Anglesea Place,Urban Traffic,"[-2.6165052627526926, 51.468580852794794]",NO2,81.2,-2.6165052627526926,51.468580852794794,0.3545983028904187
+18,18,Hillcrest,Urban Background,"[-2.5667976031020703, 51.428360058828844]",NO2,54.1,-2.5667976031020703,51.428360058828844,0.18027812662917475
+19,19,Conham Vale,Urban Traffic,"[-2.5349374193143355, 51.44686157275239]",NO2,13.5,-2.5349374193143355,51.44686157275239,0.2604651853675661
+20,20,Newfoundland Way,Urban Traffic,"[-2.5833713425664975, 51.46019039076201]",NO2,9.9,-2.5833713425664975,51.46019039076201,0.31823336137020186
+21,21,Gloucester Road,Urban Traffic,"[-2.591223636121801, 51.475221232380214]",NO2,38.5,-2.591223636121801,51.475221232380214,0.38337824544331606
+22,22,Stokes Croft,Urban Traffic,"[-2.589993149131989, 51.462459134976214]",NO2,21.7,-2.589993149131989,51.462459134976214,0.3280662824121592
+23,23,Old Market,Urban Traffic,"[-2.583490939638871, 51.45601753036153]",NO2,14.0,-2.583490939638871,51.45601753036153,0.3001478466699926
+24,24,Easton Primary School,Urban Background,"[-2.5730074922004293, 51.460178633797184]",BTX NO2,14.6,-2.5730074922004293,51.460178633797184,0.31818240573312173
+25,25,Filwood Bus Depot,Urban Background,"[-2.587292239744642, 51.42033770414306]",BTX NO2,62.0,-2.587292239744642,51.42033770414306,0.14550859214310338
+26,26,59 Creswicke Rd,Urban Background,"[-2.583096850869994, 51.422903293307705]",BTX NO2,58.8,-2.583096850869994,51.422903293307705,0.15662806322499542
+27,27,111 Creswicke Rd,Urban Background,"[-2.5872963047295974, 51.42287336017366]",BTX NO2,62.9,-2.5872963047295974,51.42287336017366,0.1564983305994517
+28,28,RO 243 Creswicke Rd,Urban Background,"[-2.592268257145369, 51.42031264836733]",BTX NO2,57.7,-2.592268257145369,51.42031264836733,0.145399998383237
+29,29,Fishponds - Gloucester St,Urban Traffic,"[-2.5547679405625807, 51.47306135239954]",BTX NO2,35.8,-2.5547679405625807,51.47306135239954,0.3740171508002578
+30,30,Old Market,Urban Traffic,"[-2.5831739784339502, 51.45599213461197]",BTX NO2,14.0,-2.5831739784339502,51.45599213461197,0.3000377794360299
+31,31,Lawrence Weston,Rural Industrial,"[-2.649666117538609, 51.49732774522595]",BTX NO2,80.3,-2.649666117538609,51.49732774522595,0.4791896612759544
+32,32,Holesmouth,Rural Industrial,"[-2.691719767611706, 51.52410630803511]",BTX NO2,9.3,-2.691719767611706,51.52410630803511,0.5952501197757706
+33,33,Chitening Wharf,Rural Industrial,"[-2.6717619253536484, 51.54308689778751]",BTX NO2,8.5,-2.6717619253536484,51.54308689778751,0.6775135319297472
+34,34,Hallen,Rural Industrial,"[-2.654203348399832, 51.51539337264058]",BTX NO2,7.1,-2.654203348399832,51.51539337264058,0.5574875526068427
+35,35,Severn Beach,Rural Industrial,"[-2.669014220328508, 51.55141086289647]",BTX NO2,7.0,-2.669014220328508,51.55141086289647,0.7135902704002567
+36,36,Lower Over Farm,Rural Industrial,"[-2.5954483798628356, 51.540793283384154]",BTX NO2,43.0,-2.5954483798628356,51.540793283384154,0.667572821475177
+37,37,Northwick Oaze,Rural Industrial,"[-2.63094495900307, 51.597669510050316]",BTX NO2,16.8,-2.63094495900307,51.597669510050316,0.9140789910429206
+38,38,Littleton Wharf,Rural Industrial,"[-2.5970011609105708, 51.61749401500854]",BTX NO2,6.3,-2.5970011609105708,51.61749401500854,1.0
+39,39,Earthcott Green,Rural Industrial,"[-2.49746068689677, 51.55207627216405]",BTX NO2,61.8,-2.49746068689677,51.55207627216405,0.7164742080199153
+40,40,Prince St Bridge (centre side),Urban Traffic,"[-2.596713627932619, 51.44906302704521]",BTX NO2,8.5,-2.596713627932619,51.44906302704521,0.2700064664442375
+41,41,Prince St Bridge (Bedminster side),Urban Traffic,"[-2.596631185635214, 51.448254196076306]",BTX NO2,8.6,-2.596631185635214,51.448254196076306,0.26650092756340854
+42,42,Hotwells - Pump House,Urban Traffic,"[-2.6184774382739517, 51.44838352286073]",BTX NO2,9.2,-2.6184774382739517,51.44838352286073,0.26706144031398465
+43,43,Victoria St - A,Urban Traffic,"[-2.59028962223018, 51.45307902028453]",BTX NO2,9.6,-2.59028962223018,51.45307902028453,0.2874121061721304
+44,45,Portwall Lane - A,Urban Traffic,"[-2.5869576824712865, 51.44912138043712]",BTX NO2,8.9,-2.5869576824712865,51.44912138043712,0.2702593747675111
+45,46,Portwall Lane - B,Urban Traffic,"[-2.586946278778313, 51.449355221666586]",BTX NO2,9.1,-2.586946278778313,51.449355221666586,0.27127286158162545
+46,47,Portwall Lane - C,Urban Traffic,"[-2.588340454505876, 51.44922233375891]",BTX NO2,9.1,-2.588340454505876,51.44922233375891,0.2706969146346672
+47,48,Portwall Lane - D,Urban Traffic,"[-2.5883006234742933, 51.44948329313379]",BTX NO2,9.1,-2.5883006234742933,51.44948329313379,0.2718279336857614
+48,49,Redcliff St - A,Urban Traffic,"[-2.5897261158117177, 51.44954804840275]",BTX NO2,9.1,-2.5897261158117177,51.44954804840275,0.2721085882623035
+49,50,Redcliffe St - B,Urban Traffic,"[-2.589759624611217, 51.44991653869884]",BTX NO2,8.9,-2.589759624611217,51.44991653869884,0.27370565502879557
+50,51,Redcliffe Hill - A,Urban Traffic,"[-2.590659079665611, 51.448239546023515]",BTX NO2,15.7,-2.590659079665611,51.448239546023515,0.2664374330489336
+51,52,Redcliffe Hill - B,Urban Traffic,"[-2.590745016426545, 51.447088175609295]",BTX NO2,16.3,-2.590745016426545,51.447088175609295,0.2614473004891741
+52,53,Guinea St,Urban Traffic,"[-2.592171252666726, 51.447215839623794]",BTX NO2,16.6,-2.592171252666726,51.447215839623794,0.26200060666032005
+53,54,Victoria St - B,Urban Traffic,"[-2.58990222862502, 51.45317089419918]",BTX NO2,9.4,-2.58990222862502,51.45317089419918,0.28781029515393247
+54,55,Commercial Rd - A,Urban Traffic,"[-2.595110161763167, 51.44636469818718]",BTX NO2,7.5,-2.595110161763167,51.44636469818718,0.2583116907881182
+55,56,Commercial Rd - B,Urban Traffic,"[-2.5930372661506484, 51.446303291719495]",BTX NO2,8.4,-2.5930372661506484,51.446303291719495,0.2580455501873188
+56,57,Clarence Rd - A,Urban Traffic,"[-2.5898060171992303, 51.44568121796843]",BTX NO2,8.9,-2.5898060171992303,51.44568121796843,0.25534943220353756
+57,58,Clarence Rd - B,Urban Traffic,"[-2.588666218667208, 51.44544418343347]",BTX NO2,6.4,-2.588666218667208,51.44544418343347,0.25432210534499056
+58,60,Clarence Rd - C,Urban Traffic,"[-2.586281412443419, 51.44574389435993]",BTX NO2,8.6,-2.586281412443419,51.44574389435993,0.2556210767569268
+59,61,Clarence Rd - D,Urban Traffic,"[-2.584493599468467, 51.44659806059138]",BTX NO2,8.7,-2.584493599468467,51.44659806059138,0.25932310233475503
+60,62,Clarence Rd - E,Urban Traffic,"[-2.5828190028971996, 51.44730776683381]",BTX NO2,10.7,-2.5828190028971996,51.44730776683381,0.26239902662852244
+61,63,Temple Gate - A,Urban Traffic,"[-2.5836228520946656, 51.44828385530292]",BTX NO2,9.8,-2.5836228520946656,51.44828385530292,0.2666294730519743
+62,64,Temple Gate - B,Urban Traffic,"[-2.5833227317342398, 51.44844720276235]",BTX NO2,9.9,-2.5833227317342398,51.44844720276235,0.26733743416145694
+63,65,Victoria St - C,Urban Traffic,"[-2.5875786073051197, 51.45153706001794]",BTX NO2,8.7,-2.5875786073051197,51.45153706001794,0.2807291255803841
+64,66,Bath Bridge,Urban Traffic,"[-2.581776270254732, 51.446782445476146]",BTX NO2,12.5,-2.581776270254732,51.446782445476146,0.2601222413482702
+65,67,York Rd - A,Urban Traffic,"[-2.583193579915087, 51.446208912311214]",BTX NO2,11.9,-2.583193579915087,51.446208912311214,0.2576365021933635
+66,68,York Rd - B,Urban Traffic,"[-2.5866732721804797, 51.44487872666277]",BTX NO2,11.6,-2.5866732721804797,51.44487872666277,0.25187136993633125
+67,69,York Rd - C,Urban Traffic,"[-2.589133431363525, 51.444848379427825]",BTX NO2,11.6,-2.589133431363525,51.444848379427825,0.25173984256395965
+68,70,Temple Way - A,Urban Traffic,"[-2.5847769773817206, 51.45190178679176]",BTX NO2,9.3,-2.5847769773817206,51.45190178679176,0.28230988093675186
+69,71,Temple Way - B,Urban Traffic,"[-2.5839564962688994, 51.451887901758475]",BTX NO2,9.9,-2.5839564962688994,51.451887901758475,0.28224970207873723
+70,72,Victoria St - D,Urban Traffic,"[-2.587046052764424, 51.45153074211064]",BTX NO2,8.8,-2.587046052764424,51.45153074211064,0.28070174325881697
+71,73,Pipe Lane,Urban Traffic,"[-2.583933039722713, 51.45004468031411]",BTX NO2,10.1,-2.583933039722713,51.45004468031411,0.27426103116033856
+72,75,Redcliffe Way - B,Urban Traffic,"[-2.585835989782436, 51.44918095394363]",BTX NO2,8.7,-2.585835989782436,51.44918095394363,0.27051757116623065
+73,76,Redcliffe Way - C,Urban Traffic,"[-2.586150953326701, 51.44905349231968]",BTX NO2,8.6,-2.586150953326701,51.44905349231968,0.2699651421720879
+74,77,Redcliffe Way - D,Urban Traffic,"[-2.586709387683173, 51.44883489194825]",BTX NO2,8.8,-2.586709387683173,51.44883489194825,0.2690177104702183
+75,78,St Nicholas Rd,Urban Background,"[-2.581248104688814, 51.464148411648885]",BTX NO2,13.0,-2.581248104688814,51.464148411648885,0.33538774423072387
+76,79,Cotham Lawn Rd,Urban Background,"[-2.6011753983013257, 51.464443398061334]",BTX NO2,77.3,-2.6011753983013257,51.464443398061334,0.33666623921658334
+77,80,The Limes Nursery School,Urban Background,"[-2.5550495915657745, 51.46424823535771]",BTX NO2,39.7,-2.5550495915657745,51.46424823535771,0.33582038826385086
+78,81,Eastville Park,Urban Background,"[-2.5534778604831025, 51.47590876885662]",BTX NO2,33.7,-2.5534778604831025,51.47590876885662,0.3863580841768459
+79,82,Novers Lane School,Urban Background,"[-2.5984013275436357, 51.421864050790724]",BTX NO2,52.5,-2.5984013275436357,51.421864050790724,0.15212390204678244
+80,83,St Mathias,Urban Background,"[-2.528455516980259, 51.48360402905331]",BTX NO2,59.4,-2.528455516980259,51.48360402905331,0.41970996467425487
+81,84,Farmwell Close,Urban Background,"[-2.607842719444675, 51.41050346517592]",BTX NO2,51.6,-2.607842719444675,51.41050346517592,0.10288620453937178
+82,85,Blaise Castle,Urban Background,"[-2.6327259798541376, 51.50573763058022]",BTX NO2,51.6,-2.6327259798541376,51.50573763058022,0.5156387850434764
+83,86,Petherton Rd,Urban Background,"[-2.565099797206932, 51.422514586553135]",BTX NO2,58.9,-2.565099797206932,51.422514586553135,0.15494337669125807
+84,87,Henleaze Infants School,Urban Background,"[-2.605237148695138, 51.48415909107563]",BTX NO2,80.3,-2.605237148695138,51.48415909107563,0.4221156484021537
+85,88,Summerleaze Office,Urban Background,"[-2.5162464903439945, 51.47494549418897]",BTX NO2,86.2,-2.5162464903439945,51.47494549418897,0.3821831738059957
+86,89,Avon County School,Urban Background,"[-2.6829310686536196, 51.49650004190421]",BTX NO2,6.3,-2.6829310686536196,51.49650004190421,0.4756023280905424
+87,90,Southmead Hospital,Urban Background,"[-2.593165967981536, 51.497312480841124]",BTX NO2,73.8,-2.593165967981536,51.497312480841124,0.47912350419670796
+88,91,Stile AcresBroadlands Drive,Urban Background,"[-2.6558001060099152, 51.502148970635]",BTX NO2,21.5,-2.6558001060099152,51.502148970635,0.5000852423977876
+89,92,The Square,Urban Background,"[-2.57152246774236, 51.43118755406222]",BTX NO2,58.4,-2.57152246774236,51.43118755406222,0.19253271980993578
+90,93,Hannah Moore School,Urban Background,"[-2.577964298082191, 51.45374302471645]",BTX NO2,9.5,-2.577964298082191,51.45374302471645,0.2902899551203508
+91,94,Brangwyn Grove,Urban Background,"[-2.565534821580927, 51.48793594713371]",BTX NO2,74.1,-2.565534821580927,51.48793594713371,0.43848484823232725
+92,95,Redland Court,Urban Background,"[-2.6043727216648356, 51.47324787283144]",BTX NO2,72.7,-2.6043727216648356,51.47324787283144,0.3748255454478922
+93,96,Dundridge Playing Fields,Urban Background,"[-2.5282034496765444, 51.45064162588489]",BTX NO2,56.8,-2.5282034496765444,51.45064162588489,0.27684824157705873
+94,97,Airballoon Infants School,Urban Background,"[-2.5297197859583913, 51.45854748651449]",BTX NO2,76.7,-2.5297197859583913,51.45854748651449,0.31111288139533727
+95,98,Trowbridge Rd,Urban Background,"[-2.6009600857427055, 51.50174160486838]",BTX NO2,57.4,-2.6009600857427055,51.50174160486838,0.4983196861956883
+96,99,Greville Smyth Park,Urban Background,"[-2.61865028733268, 51.44199847315068]",BTX NO2,7.9,-2.61865028733268,51.44199847315068,0.23938811810571228
+97,100,Ashton Vale School,Urban Background,"[-2.6280666808850186, 51.433010681439754]",BTX NO2,10.6,-2.6280666808850186,51.433010681439754,0.20043430141639307
+98,101,Stockwood Green School,Urban Background,"[-2.544706650915833, 51.40924896729617]",BTX NO2,91.3,-2.544706650915833,51.40924896729617,0.0974491091975348
+99,102,Bishops Close,Urban Background,"[-2.629349156229855, 51.47602065762965]",BTX NO2,76.0,-2.629349156229855,51.47602065762965,0.38684301917470443
+100,103,Elmlea Jnr School,Urban Background,"[-2.622000114692965, 51.48515936291309]",BTX NO2,47.0,-2.622000114692965,51.48515936291309,0.42645090750126413
+101,104,Teyfant Primary School,Urban Background,"[-2.5890473531359546, 51.405860970646636]",BTX NO2,70.7,-2.5890473531359546,51.405860970646636,0.08276525751574942
+102,105,Victoria Park,Urban Background,"[-2.5898746712999476, 51.439818405937494]",BTX NO2,38.7,-2.5898746712999476,51.439818405937494,0.22993953036310924
+103,106,Brunel College,Urban Background,"[-2.580479144396356, 51.47727103473025]",BTX NO2,56.9,-2.580479144396356,51.47727103473025,0.39226225472621556
+104,107,Kingshead Lane Park,Urban Background,"[-2.6220695010571693, 51.419321591586865]",BTX NO2,57.5,-2.6220695010571693,51.419321591586865,0.14110467808693422
+105,108,Broomhill Jnr School,Urban Background,"[-2.53878075646014, 51.43959670403153]",BTX NO2,65.7,-2.53878075646014,51.43959670403153,0.22897865635953135
+106,109,St Annes Jnr School,Urban Background,"[-2.550227961791242, 51.44752830760638]",BTX NO2,34.6,-2.550227961791242,51.44752830760638,0.263354868186012
+107,110,Council House,Urban Background,"[-2.6026761119643744, 51.45162210395225]",BTX NO2,17.0,-2.6026761119643744,51.45162210395225,0.28109771287460456
+108,111,Clifton College,Urban Background,"[-2.6209125016949115, 51.46236212713957]",BTX NO2,68.3,-2.6209125016949115,51.46236212713957,0.3276458425969545
+109,112,Victoria Street a,Urban Traffic,"[-2.5907313158587093, 51.453850099607294]",BTX NO2,6.1,-2.5907313158587093,51.453850099607294,0.2907540263632134
+110,113,Victoria Street,Urban Traffic,"[-2.587711116597655, 51.45177018534389]",NO2,8.8,-2.587711116597655,51.45177018534389,0.28173950961071165
+111,114,Redcliffe Street south,Urban Traffic,"[-2.589854007081192, 51.44942151989429]",BTX NO2,9.1,-2.589854007081192,51.44942151989429,0.27156020346623294
+112,115,Redcliffe Hill a,Urban Traffic,"[-2.590659079665611, 51.448239546023515]",BTX NO2,15.7,-2.590659079665611,51.448239546023515,0.2664374330489336
+113,116,Redcliff Hill b,Urban Traffic,"[-2.590740626476799, 51.44674651347905]",BTX NO2,13.9,-2.590740626476799,51.44674651347905,0.2599665091647474
+114,117,Commercial Rd b,Urban Traffic,"[-2.5930372661506484, 51.446303291719495]",BTX NO2,8.4,-2.5930372661506484,51.446303291719495,0.2580455501873188
+115,118,Clarence Road a,Urban Traffic,"[-2.589287340513123, 51.44562988178933]",BTX NO2,9.0,-2.589287340513123,51.44562988178933,0.25512693704850653
+116,119,Clarence Road e,Urban Traffic,"[-2.582632743678128, 51.44737163645573]",BTX NO2,7.9,-2.582632743678128,51.44737163645573,0.2626758427391139
+117,120,Templegate a,Urban Traffic,"[-2.5836228520946656, 51.44828385530292]",BTX NO2,9.8,-2.5836228520946656,51.44828385530292,0.2666294730519743
+118,121,Templegate b,Urban Traffic,"[-2.5833227317342398, 51.44844720276235]",BTX NO2,9.9,-2.5833227317342398,51.44844720276235,0.26733743416145694
+119,122,Bath Bridge south,Urban Traffic,"[-2.581776270254732, 51.446782445476146]",BTX NO2,12.5,-2.581776270254732,51.446782445476146,0.2601222413482702
+120,123,corner York rd  and  Whitehouse St,Urban Traffic,"[-2.588268871563152, 51.44475382158686]",NO2,11.9,-2.588268871563152,51.44475382158686,0.2513300212283041
+121,124,Corner York Rd  and  Spring St,Urban Traffic,"[-2.5866732721804797, 51.44487872666277]",BTX NO2,11.6,-2.5866732721804797,51.44487872666277,0.25187136993633125
+122,125,York Road,Urban Traffic,"[-2.5882545984160195, 51.444762885059774]",NO2,11.9,-2.5882545984160195,51.444762885059774,0.25136930305346217
+123,126,Temple Way a,Urban Traffic,"[-2.5849650844921754, 51.451981773829445]",BTX NO2,9.3,-2.5849650844921754,51.451981773829445,0.28265655123172295
+124,127,Temple Way b,Urban Traffic,"[-2.584287704173026, 51.451904231761795]",BTX NO2,9.5,-2.584287704173026,51.451904231761795,0.282320477634769
+125,128,Redcliffe Way east,Urban Traffic,"[-2.586898402065372, 51.44898680250126]",BTX NO2,8.5,-2.586898402065372,51.44898680250126,0.26967610310161927
+126,129,Redcliffe Way west,Urban Traffic,"[-2.5893585364207947, 51.448938466135765]",BTX NO2,9.9,-2.5893585364207947,51.448938466135765,0.2694666093815286
+127,130,Temple Gate,Urban Traffic,"[-2.5851422014522814, 51.44894165096553]",BTX NO2,8.5,-2.5851422014522814,51.44894165096553,0.26948041269149087
+128,131,between Redcliffe Way and Temple Quay rndbt,Urban Traffic,"[-2.585566943321254, 51.44952398551517]",BTX NO2,9.1,-2.585566943321254,51.44952398551517,0.2720042977600542
+129,132,Temple Quay rndbt west,Urban Traffic,"[-2.58494227131949, 51.45019249643664]",BTX NO2,9.6,-2.58494227131949,51.45019249643664,0.2749016781986931
+130,133,Temple Quay rndbt east,Urban Traffic,"[-2.5840326252108037, 51.449954266157484]",BTX NO2,9.9,-2.5840326252108037,51.449954266157484,0.2738691688879897
+131,134,Temple Way near Avon Street east,Urban Traffic,"[-2.5836594711288354, 51.45342700820158]",BTX NO2,9.5,-2.5836594711288354,51.45342700820158,0.28892031396854445
+132,135,Temple Way near Avon street west,Urban Traffic,"[-2.5843657701842644, 51.45351340190461]",BTX NO2,8.4,-2.5843657701842644,51.45351340190461,0.28929475126962323
+133,136,St Thomas Street,Urban Traffic,"[-2.588581652918336, 51.45119931424219]",BTX NO2,8.6,-2.588581652918336,51.45119931424219,0.27926530805329913
+134,137,Redcliffe Street north,Urban Traffic,"[-2.590701870341586, 51.4515662886665]",BTX NO2,8.6,-2.590701870341586,51.4515662886665,0.28085580490881135
+135,138,The  Grove,Urban Traffic,"[-2.5951203540332766, 51.44937686117769]",BTX NO2,8.9,-2.5951203540332766,51.44937686117769,0.27136664897411283
+136,139,Prince Street,Urban Traffic,"[-2.5968299851407086, 51.450267318752324]",BTX NO2,9.0,-2.5968299851407086,51.450267318752324,0.2752259641704963
+137,140,Bath Bridge north,Urban Traffic,"[-2.5819867169179322, 51.44749174398013]",BTX NO2,5.2,-2.5819867169179322,51.44749174398013,0.26319639847060666
+138,141,Bedminster Parade near bridge,Urban Traffic,"[-2.592085101730448, 51.44499532780551]",BTX NO2,9.4,-2.592085101730448,51.44499532780551,0.2523767287258961
+139,142,Coronation Road,Urban Traffic,"[-2.592552477268808, 51.445532462905255]",BTX NO2,10.2,-2.592552477268808,51.445532462905255,0.2547047157204694
+140,143,Bedminster Bridge east,Urban Traffic,"[-2.5905527165570477, 51.445560558745015]",BTX NO2,-3.8,-2.5905527165570477,51.445560558745015,0.25482648536388436
+141,144,Bedminster Bridge west,Urban Traffic,"[-2.591348821459799, 51.44592519648595]",BTX NO2,11.1,-2.591348821459799,51.44592519648595,0.2564068548445418
+142,145,Coronation Road near entry to Asda,Urban Traffic,"[-2.5956431934052207, 51.44530096603815]",BTX NO2,11.1,-2.5956431934052207,51.44530096603815,0.2537013895625504
+143,146,roundabout end of Wapping Rd  commercial road,Urban Traffic,"[-2.5965877632092074, 51.446015487806356]",BTX NO2,-3.8,-2.5965877632092074,51.446015487806356,0.2567981847347741
+144,147,Anchor Road,Urban Traffic,"[-2.59841691911104, 51.4516709446927]",NO2,9.4,-2.59841691911104,51.4516709446927,0.28130939259656007
+145,148,Anchor Road opp Cathedral School,Urban Traffic,"[-2.600967752856957, 51.45084858834706]",BTX NO2,9.3,-2.600967752856957,51.45084858834706,0.2777452336382966
+146,149,Anchor Road a,Urban Traffic,"[-2.603136292599651, 51.45050472609301]",BTX NO2,9.3,-2.603136292599651,51.45050472609301,0.2762549067992471
+147,150,Anchor Road b,Urban Traffic,"[-2.603971398697931, 51.45053638635717]",BTX NO2,9.3,-2.603971398697931,51.45053638635717,0.276392124946509
+148,151,Anchor Road c,Urban Traffic,"[-2.604677350962706, 51.45059568417691]",BTX NO2,10.3,-2.604677350962706,51.45059568417691,0.2766491264964422
+149,152,Anchor Road near Hotwells rndbt east,Urban Traffic,"[-2.6064614987625556, 51.45056846641576]",BTX NO2,10.5,-2.6064614987625556,51.45056846641576,0.2765311625167844
+150,153,Anchor Road near Hotwells rndbt west,Urban Traffic,"[-2.608676034689369, 51.45044007269122]",BTX NO2,10.0,-2.608676034689369,51.45044007269122,0.275974693723275
+151,154,Hotwells Road,Urban Traffic,"[-2.6115304515639197, 51.449732827699066]",NO2,9.7,-2.6115304515639197,51.449732827699066,0.2729094366873998
+152,155,Jacobs Wells Road South,Urban Traffic,"[-2.608147517999857, 51.451818595080134]",NO2,17.8,-2.608147517999857,51.451818595080134,0.28194932132556866
+153,156,Jacobs Wells road opp Clifton hill,Urban Traffic,"[-2.6100405386055896, 51.454551300168845]",NO2,39.2,-2.6100405386055896,51.454551300168845,0.2937930863476456
+154,157,Stokes Croft  Ashley Road,Urban Traffic,"[-2.589872880847064, 51.464294102342414]",NO2,27.1,-2.589872880847064,51.464294102342414,0.3360191794877473
+155,158,botttom of Arley Hill,Urban Traffic,"[-2.5903525587963436, 51.46576636541995]",BTX NO2,23.8,-2.5903525587963436,51.46576636541995,0.3424000868213179
+156,159,Cromwell Road,Urban Traffic,"[-2.5932153713726276, 51.46893498364398]",NO2,26.3,-2.5932153713726276,51.46893498364398,0.356133134651881
+157,160,Zetland Road junction,Urban Traffic,"[-2.593696172512945, 51.470479111749874]",BTX NO2,26.5,-2.593696172512945,51.470479111749874,0.36282551083462794
+158,161,Bishop Road,Urban Traffic,"[-2.5895885992418624, 51.4790687896319]",NO2,52.5,-2.5895885992418624,51.4790687896319,0.4000538699687146
+159,162,Dongola Avenue,Urban Traffic,"[-2.587819570979886, 51.48147836387109]",BTX NO2,55.4,-2.587819570979886,51.48147836387109,0.4104971597368224
+160,163,Strathmore Road,Urban Traffic,"[-2.5856104365558332, 51.48665050784872]",NO2,65.4,-2.5856104365558332,51.48665050784872,0.4329136503360019
+161,164,Horfield Common,Urban Traffic,"[-2.5853923656713236, 51.48987056573658]",BTX NO2,79.7,-2.5853923656713236,51.48987056573658,0.44686964183279176
+162,165,Sports Centre,Urban Traffic,"[-2.582833269757885, 51.49363278849356]",BTX NO2,86.5,-2.582833269757885,51.49363278849356,0.4631754197516774
+163,166,Monks Park Avenue,Urban Traffic,"[-2.581189104679922, 51.49686892482894]",BTX NO2,89.6,-2.581189104679922,51.49686892482894,0.4772010965413171
+164,167,junction Birchwood Road,Urban Traffic,"[-2.5414589210716474, 51.44098708913197]",BTX NO2,60.8,-2.5414589210716474,51.44098708913197,0.2350046979136934
+165,168,shops,Urban Traffic,"[-2.5378592840004353, 51.440769849666765]",BTX NO2,63.9,-2.5378592840004353,51.440769849666765,0.23406316448951536
+166,169,Eastwood Crescent,Urban Traffic,"[-2.5350223849711337, 51.4393261585862]",BTX NO2,62.9,-2.5350223849711337,51.4393261585862,0.2278060905032512
+167,170,opp Whitmore Avenue,Urban Traffic,"[-2.5335404589287776, 51.43808306527075]",BTX NO2,59.6,-2.5335404589287776,51.43808306527075,0.2224184234661221
+168,171,Raymill,Urban Traffic,"[-2.532528997993192, 51.435219313950796]",BTX NO2,55.3,-2.532528997993192,51.435219313950796,0.21000669347178424
+169,172,Ironmould Lane,Urban Traffic,"[-2.5267027839653413, 51.4264965789615]",BTX NO2,36.5,-2.5267027839653413,51.4264965789615,0.17220165406600157
+170,173,Bath Road park  and  ride,Urban Traffic,"[-2.537894223455063, 51.429044438438964]",BTX NO2,56.4,-2.537894223455063,51.429044438438964,0.18324428324872968
+171,174,West Town Lane junction,Urban Traffic,"[-2.5455314788781265, 51.43139201707486]",NO2,46.4,-2.5455314788781265,51.43139201707486,0.19341887905465582
+172,175,top of Brislington Hill,Urban Traffic,"[-2.5459037821250927, 51.43245132056657]",NO2,41.2,-2.5459037821250927,51.43245132056657,0.19800998612094098
+173,176,Kenneth Road,Urban Traffic,"[-2.5491731610372392, 51.43397366210998]",BTX NO2,25.9,-2.5491731610372392,51.43397366210998,0.2046079375786145
+174,177,Water Lane,Urban Traffic,"[-2.552468055968623, 51.434021144518226]",BTX NO2,38.3,-2.552468055968623,51.434021144518226,0.2048137301788861
+175,178,opp Kensington Park Road,Urban Traffic,"[-2.5552903374698617, 51.436606452256264]",BTX NO2,31.7,-2.5552903374698617,51.436606452256264,0.21601866315374949
+176,179,opp Kings Road,Urban Traffic,"[-2.5586533159943396, 51.439845495017046]",BTX NO2,24.8,-2.5586533159943396,51.439845495017046,0.23005693662630358
+177,180,Arnos Court,Urban Traffic,"[-2.560687936887823, 51.44149924972232]",BTX NO2,15.4,-2.560687936887823,51.44149924972232,0.23722444336324644
+178,181,Totterdown Bridge,Urban Traffic,"[-2.5725398554331576, 51.44347408281017]",BTX NO2,9.4,-2.5725398554331576,51.44347408281017,0.24578352979629833
+179,182,Higham Street (National),Urban Traffic,"[-2.579376563407313, 51.44477121501139]",BTX NO2,36.1,-2.579376563407313,51.44477121501139,0.25140540573795234
+180,183,Ferndown Close (National),Urban Traffic,"[-2.656871356302091, 51.49448219200684]",BTX NO2,69.4,-2.656871356302091,51.49448219200684,0.46685680332352353
+181,184,Hillcrest (National),Urban Traffic,"[-2.5671107749246964, 51.428097788895435]",BTX NO2,52.6,-2.5671107749246964,51.428097788895435,0.17914142751133882
+182,185,Newfoundland Way (National),Urban Traffic,"[-2.5829850191857417, 51.46037215426231]",NO2,9.6,-2.5829850191857417,51.46037215426231,0.31902113909127594
+183,186,No. 6 Borewell WW,Urban Industrial,"[-2.673801103052679, 51.51035484749122]",HM,7.5,-2.673801103052679,51.51035484749122,0.5356501768236446
+184,187,Almondsbury School,Urban Background,"[-2.574897107857412, 51.55309786673107]",NOX NO2 NO Meteorology,43.1,-2.574897107857412,51.55309786673107,0.7209018815546897
+185,188,AURN Bristol Centre,Urban Background,"[-2.5856505875977023, 51.45720266987896]",NOX NO2 NO CO SO2 PM10,10.3,-2.5856505875977023,51.45720266987896,0.30528433725612514
+186,189,Hannah Moore School,Urban Background,"[-2.577964298082191, 51.45374302471645]",Hydrocarbons,9.5,-2.577964298082191,51.45374302471645,0.2902899551203508
+187,190,Albright and Wilson,Urban Industrial,"[-2.687207260894234, 51.522136709555554]",DUST,6.6,-2.687207260894234,51.522136709555554,0.586713720558726
+188,191,Tesco forecourt,Urban Industrial,"[-2.563995632596566, 51.47410548125416]",BTX,16.1,-2.563995632596566,51.47410548125416,0.3785424897612803
+189,192,Stapleton2,Urban Industrial,"[-2.5606076962227853, 51.47609980719119]",BTX,13.8,-2.5606076962227853,51.47609980719119,0.3871860597802895
+190,193,Eastgate,Urban Industrial,"[-2.5649065715121577, 51.47441581768502]",BTX,16.3,-2.5649065715121577,51.47441581768502,0.37988751296925355
+191,194,Tesco spot,Urban Industrial,"[-2.5621199518726083, 51.47495966207294]",BTX,8.2,-2.5621199518726083,51.47495966207294,0.38224457856177163
+192,197,Sainsbury Ashton3,Urban Industrial,"[-2.617922002411997, 51.433793358661845]",BTX,11.3,-2.617922002411997,51.433793358661845,0.20382648784180402
+193,198,Redland Road,Urban Industrial,"[-2.5991732807744907, 51.46983977172733]",BTX,41.3,-2.5991732807744907,51.46983977172733,0.3600545594328422
+194,199,Arnos Court,Urban Industrial,"[-2.5603926664459955, 51.44323606658584]",BTX,12.7,-2.5603926664459955,51.44323606658584,0.24475194821654786
+195,200,Stapleton1,Urban Industrial,"[-2.559941354434898, 51.47694818052962]",BTX,11.4,-2.559941354434898,51.47694818052962,0.3908629784909278
+196,201,Castle Cement,Urban Industrial,"[-2.720090901006503, 51.489758645875845]",DUST,9.4,-2.720090901006503,51.489758645875845,0.4463845720982889
+197,202,Blaise Castle House,Urban Background,"[-2.6325082508552082, 51.505621914772334]",O3 Meteorology,51.3,-2.6325082508552082,51.505621914772334,0.5151372633668004
+198,203,Brislington Depot,Urban Background,"[-2.5599571567289274, 51.44174551496291]",NOX NO2 NO,14.6,-2.5599571567289274,51.44174551496291,0.23829177684709527
+199,204,Little Stoke Parish Hall,Urban Background,"[-2.554039520984241, 51.52570164161562]",NOX NO2 NO Meteorology,55.6,-2.554039520984241,51.52570164161562,0.602164424629761
+200,205,Terra UK site,Urban Industrial,"[-2.6675304493142646, 51.54264352874578]",NOX NO2 NO Meteorology,6.6,-2.6675304493142646,51.54264352874578,0.6755919346194332
+201,206,Rupert Street,Urban Traffic,"[-2.596264050253032, 51.45543159238385]",NOX NO2 NO,8.9,-2.596264050253032,51.45543159238385,0.2976083440526908
+202,207,Dundry Hill,Rural Industrial,"[-2.641743669229477, 51.39685218394142]",Meteorology,228.2,-2.641743669229477,51.39685218394142,0.043720446821989896
+203,208,Hallen Village,Urban Background,"[-2.6487900032219747, 51.51780625434117]",HM,7.6,-2.6487900032219747,51.51780625434117,0.5679451771803344
+204,209,IKEA M32,Urban Traffic,"[-2.562080742351604, 51.47528354599943]",NOX NO2 NO,11.2,-2.562080742351604,51.47528354599943,0.38364831771226887
+205,210,Rhone Poulenc,Urban Industrial,"[-2.69427791057201, 51.51321142263959]",DUST,6.9,-2.69427791057201,51.51321142263959,0.548030804709536
+206,211,Rhone Poulenc,Urban Industrial,"[-2.694085634962042, 51.513832975932715]",DUST,6.9,-2.694085634962042,51.513832975932715,0.5507246669864603
+207,212,Rhone Poulenc,Urban Industrial,"[-2.692422798119754, 51.51346516976958]",DUST,6.9,-2.692422798119754,51.51346516976958,0.5491305653075711
+208,213,Old Market,Urban Traffic,"[-2.583490939638871, 51.45601753036153]",NOX NO2 NO PM10,14.0,-2.583490939638871,51.45601753036153,0.3001478466699926
+209,214,Port Health Office,Urban Industrial,"[-2.7032308485182033, 51.5004080864004]",DUST,8.9,-2.7032308485182033,51.5004080864004,0.49254010922903885
+210,215,Parson Street School,Urban Traffic,"[-2.604960010761926, 51.43267429331247]",NOX NO2 NO PM2.5,14.9,-2.604960010761926,51.43267429331247,0.19897636804766453
+211,216,Poplar Farm,Rural Industrial,"[-2.6661278902156527, 51.512835459672694]",Heavy Metals,6.2,-2.6661278902156527,51.512835459672694,0.5464013507829667
+212,217,Port Health Office,Urban Industrial,"[-2.703270314199872, 51.50016507971916]",Lead,8.9,-2.703270314199872,51.50016507971916,0.4914868986051529
+213,218,Royal Portbury Docks quayside,Urban Industrial,"[-2.7149265853494082, 51.49383643988876]",DUST,7.4,-2.7149265853494082,51.49383643988876,0.46405806138072575
+214,219,Royal Portbury Docks cc,Urban Industrial,"[-2.7131441706537314, 51.493154959408145]",DUST,8.9,-2.7131441706537314,51.493154959408145,0.46110446982308395
+215,220,Royal Portbury Docks road,Urban Industrial,"[-2.714899351337794, 51.49210124252707]",DUST,11.6,-2.714899351337794,51.49210124252707,0.4565375755794295
+216,221,Blaise Castle House,Urban Background,"[-2.632463661687114, 51.50552324816758]",Smoke SO2,50.6,-2.632463661687114,51.50552324816758,0.5147096343163435
+217,222,Bristol North Baths,Urban Background,"[-2.5916072574763027, 51.47482366255687]",Smoke SO2,37.9,-2.5916072574763027,51.47482366255687,0.38165514565220376
+218,223,St. Matthias College,Urban Background,"[-2.5284305603383954, 51.483936832668554]",Heavy Metals,58.6,-2.5284305603383954,51.483936832668554,0.4211523624777097
+219,224,St Matthias College,Urban Background,"[-2.528455516980259, 51.48360402905331]",Smoke SO2,59.4,-2.528455516980259,51.48360402905331,0.41970996467425487
+220,225,The Vicarage Avonmouth,Urban Background,"[-2.6984470286069135, 51.501290898689376]",DUST,7.5,-2.6984470286069135,51.501290898689376,0.4963662891386284
+221,226,Wessex Water Avonmouth,Urban Industrial,"[-2.673356217088291, 51.51145436742244]",Smoke SO2,7.7,-2.673356217088291,51.51145436742244,0.5404155851936193
+222,227,Wessex Water Avonmouth,Urban Industrial,"[-2.6734426725966607, 51.51145387004046]",HM,7.6,-2.6734426725966607,51.51145387004046,0.5404134294998821
+223,228,Temple Meads Station,Urban Traffic,"[-2.584479485631176, 51.448882022379976]",NOX NO2 NO,9.0,-2.584479485631176,51.448882022379976,0.2692219775757465
+224,229,South Liberty Lane Travellers Site,Urban Background,"[-2.6317693941922955, 51.434492210168344]",BTX NO2,8.4,-2.6317693941922955,51.434492210168344,0.20685536683152425
+225,230,Parson Street School,Urban Traffic,"[-2.604143194821381, 51.43291229933199]",BTX NO2,14.1,-2.604143194821381,51.43291229933199,0.20000790539892188
+226,231,West Town Road,Urban Traffic,"[-2.6898688550583443, 51.491379202886165]",NO2,10.1,-2.6898688550583443,51.491379202886165,0.45340819733849325
+227,232,A4 Portway N of P and R,Urban Traffic,"[-2.689173221151881, 51.49204866008972]",NO2,9.5,-2.689173221151881,51.49204866008972,0.4563096790402771
+228,233,A4 Portway S of P and R,Urban Traffic,"[-2.6870314607816184, 51.489480723728285]",NO2,17.6,-2.6870314607816184,51.489480723728285,0.44518003501752706
+229,234,A37 N of Airport Rd. Junction,Urban Traffic,"[-2.5638091876908935, 51.42863518374702]",NO2,40.4,-2.5638091876908935,51.42863518374702,0.18147054029139217
+230,235,A37 S of Airport Rd.Junction,Urban Traffic,"[-2.563665160089436, 51.42629801878052]",NO2,39.1,-2.563665160089436,51.42629801878052,0.17134107817146366
+231,236,A4174 East of Airport Rd Junction,Urban Traffic,"[-2.5659194117826285, 51.427141411368424]",NO2,33.6,-2.5659194117826285,51.427141411368424,0.17499640990621707
+232,237,A4174 West of Airport Rd. Junction,Urban Traffic,"[-2.562267760651724, 51.42844474462466]",NO2,32.9,-2.562267760651724,51.42844474462466,0.18064516172218076
+233,238,Parson Street School,Urban Traffic,"[-2.6054829224691045, 51.43197024411613]",NO2,15.3,-2.6054829224691045,51.43197024411613,0.19592496184948952
+234,239,Parson St. A38 East,Urban Traffic,"[-2.607281208505136, 51.431978895851735]",NO2,22.1,-2.607281208505136,51.431978895851735,0.19596245917181868
+235,240,Parson St. A38 West,Urban Traffic,"[-2.6113193732668143, 51.431670111458416]",NO2,35.1,-2.6113193732668143,51.431670111458416,0.1946241626201492
+236,241,Parson St. Bedminster Road,Urban Traffic,"[-2.6043193881925752, 51.43318113478423]",NO2,13.9,-2.6043193881925752,51.43318113478423,0.2011730600067415
+237,242,Parson Street Bedminster Down Road,Urban Traffic,"[-2.6125907995089865, 51.431007070114305]",NO2,36.7,-2.6125907995089865,51.431007070114305,0.1917504877724606
+238,243,Parson Street Chip Shop,Urban Traffic,"[-2.6070486343407127, 51.43287925934496]",NO2,21.0,-2.6070486343407127,51.43287925934496,0.1998647074210862
+239,244,Kingsweston Lane Central,Urban Traffic,"[-2.6720117439196267, 51.50334279755375]",NO2,7.7,-2.6720117439196267,51.50334279755375,0.5052593848843401
+240,245,Kingsweston Lane 100m N,Urban Traffic,"[-2.672657705171317, 51.50415731123273]",NO2,13.4,-2.672657705171317,51.50415731123273,0.508789553090556
+241,246,Kingsweston Lane 200m N,Urban Traffic,"[-2.673021124738356, 51.505351087492016]",NO2,7.2,-2.673021124738356,51.505351087492016,0.5139634760148829
+242,247,Kingsweston Lane 100m S,Urban Traffic,"[-2.671093411221292, 51.50261975655806]",NO2,13.5,-2.671093411221292,51.50261975655806,0.5021256666907346
+243,248,Kingsweston Lane 200m S,Urban Traffic,"[-2.6700314449881337, 51.501924504765135]",NO2,13.3,-2.6700314449881337,51.501924504765135,0.4991123891509755
+244,249,Lawrence Weston Road Central,Urban Traffic,"[-2.6606920258666364, 51.50865826868867]",NO2,7.8,-2.6606920258666364,51.50865826868867,0.5282970669831911
+245,250,Lawrence Weston Road 100m N,Urban Traffic,"[-2.662068674861417, 51.50918997600058]",NO2,9.4,-2.662068674861417,51.50918997600058,0.5306015295059733
+246,251,Lawrence Weston Road 200m N,Urban Traffic,"[-2.6633772351364327, 51.509991797426004]",NO2,6.5,-2.6633772351364327,51.509991797426004,0.5340766884580491
+247,252,Lawrence Weston Road 100m S,Urban Traffic,"[-2.659009722339381, 51.507912470975086]",NO2,8.4,-2.659009722339381,51.507912470975086,0.5250647193324384
+248,253,Lawrence Weston Road 200m S,Urban Traffic,"[-2.657732978600183, 51.507308233344894]",NO2,6.9,-2.657732978600183,51.507308233344894,0.5224459045400721
+249,254,Merchants Road Hotwells,Urban Traffic,"[-2.618474212360676, 51.44921078066181]",NO2,9.6,-2.618474212360676,51.44921078066181,0.27064684257678934
+250,255,Joy Hill Hotwells,Urban Traffic,"[-2.621091563748958, 51.45014107539806]",NO2,10.7,-2.621091563748958,51.45014107539806,0.27467881525577936
+251,256,Church Hotwells,Urban Traffic,"[-2.6184036467653207, 51.45038007991161]",NO2,9.6,-2.6184036467653207,51.45038007991161,0.2757146801610077
+252,257,Almshouses Hotwells,Urban Traffic,"[-2.622513492952727, 51.44993571329461]",NO2,11.4,-2.622513492952727,51.44993571329461,0.27378875927873453
+253,258,Stapleton Road North,Urban Traffic,"[-2.560783205779347, 51.477492650656565]",NO2,12.6,-2.560783205779347,51.477492650656565,0.39322275608703144
+254,259,Stapleton Road Middle,Urban Traffic,"[-2.5608894411608127, 51.47676383417026]",NO2,12.7,-2.5608894411608127,51.47676383417026,0.39006400644964395
+255,260,Stapleton Road South,Urban Traffic,"[-2.560922134953657, 51.47590948761241]",NO2,13.5,-2.560922134953657,51.47590948761241,0.3863611993226228
+256,261,Stapleton Road Heath Street,Urban Traffic,"[-2.561420923562884, 51.47314669991888]",NO2,14.5,-2.561420923562884,51.47314669991888,0.3743870538565493
+257,262,Stapleton Road Argyll Street,Urban Traffic,"[-2.5629264266545206, 51.47146707636785]",NO2,14.1,-2.5629264266545206,51.47146707636785,0.3671074294484525
+258,263,Gatton Road,Urban Traffic,"[-2.572296930365433, 51.46782517526481]",NO2,12.1,-2.572296930365433,51.46782517526481,0.3513231353157656
+259,264,Baptist Mills School,Urban Traffic,"[-2.571440722229958, 51.46728086579813]",NO2,12.6,-2.571440722229958,51.46728086579813,0.34896405403427877
+260,265,Elton Street Wellington Road,Urban Traffic,"[-2.5801485352061504, 51.46030531741056]",NO2,9.2,-2.5801485352061504,51.46030531741056,0.3187314627664419
+261,266,Cabot Primary School,Urban Traffic,"[-2.5795180880279616, 51.46280819469029]",NO2,10.5,-2.5795180880279616,51.46280819469029,0.32957913546361395
+262,267,Pritchard Street,Urban Traffic,"[-2.5853384894270692, 51.459811899124645]",NO2,11.7,-2.5853384894270692,51.459811899124645,0.3165929479811866
+263,268,Pilning Fire Station,Rural Industrial,"[-2.6383560924289795, 51.55683349820393]",NOX NO2 NO Meteorology,6.8,-2.6383560924289795,51.55683349820393,0.7370924106960773
+264,269,South Liberty Lane RWS,Urban Traffic,"[-2.6272232834873517, 51.42917587897022]",NO2,16.9,-2.6272232834873517,51.42917587897022,0.183813957149144
+265,270,Wells Road,Urban Traffic,"[-2.5637420738696934, 51.4278622149951]",NOX NO2 NO,35.0,-2.5637420738696934,51.4278622149951,0.17812043116145468
+266,271,Trailer Portway P&R,Urban Traffic,"[-2.688781973905141, 51.489991938848746]",NOX NO2 NO,11.5,-2.688781973905141,51.489991938848746,0.4473956827240761
+267,272,Old Beaufort Club 1,Urban Traffic,"[-2.596261673866912, 51.453039739401156]",NO2,9.2,-2.596261673866912,51.453039739401156,0.2872418596444584
+268,273,Old Beaufort Club 2,Urban Traffic,"[-2.5962755960764703, 51.453003700531646]",NO2,9.2,-2.5962755960764703,51.453003700531646,0.28708566426724746
+269,274,Old Beaufort Club 3,Urban Traffic,"[-2.5962753618059233, 51.45298571777391]",NO2,9.2,-2.5962753618059233,51.45298571777391,0.28700772553982506
+270,275,B and W 3rd floor,Urban Traffic,"[-2.5963840439530856, 51.45249060502041]",NO2,9.2,-2.5963840439530856,51.45249060502041,0.2848618667948866
+271,276,B and W Top Floor,Urban Traffic,"[-2.596684252937719, 51.45233621043219]",NO2,9.2,-2.596684252937719,51.45233621043219,0.2841927081538573
+272,277,B and W Broad Quay,Urban Traffic,"[-2.5967572605991953, 51.452416765797274]",NO2,9.2,-2.5967572605991953,51.452416765797274,0.2845418416257509
+273,278,B and W Broad Quay2,Urban Traffic,"[-2.59675878468956, 51.45253365373011]",NO2,9.2,-2.59675878468956,51.45253365373011,0.28504844338680907
+274,279,Marsh St Derelict,Urban Traffic,"[-2.5963576058524733, 51.45267057934382]",NO2,9.2,-2.5963576058524733,51.45267057934382,0.28564189007850643
+275,280,Marsh St Derelict Garage,Urban Traffic,"[-2.5963309332345346, 51.45283257089702]",NO2,9.2,-2.5963309332345346,51.45283257089702,0.2863439745806577
+276,281,Rupert St Green Box,Urban Traffic,"[-2.596249892951533, 51.45544964848471]",NO2,8.9,-2.596249892951533,51.45544964848471,0.2976866006551467
+277,282,Project House GF,Urban Traffic,"[-2.5960187872804186, 51.45317585683447]",NO2,9.2,-2.5960187872804186,51.45317585683447,0.2878318036169128
+278,283,Project House 1F,Urban Traffic,"[-2.596018670200099, 51.45316686545577]",NO2,9.2,-2.596018670200099,51.45316686545577,0.28779283425392527
+279,284,Project House 2F,Urban Traffic,"[-2.596018436039656, 51.45314888269831]",NO2,9.2,-2.596018436039656,51.45314888269831,0.2877148955276731
+280,285,Project House 3F,Urban Traffic,"[-2.5960183189595316, 51.45313989131955]",NO2,9.2,-2.5960183189595316,51.45313989131955,0.28767592616443927
+281,286,William Street,Urban Traffic,"[-2.5906680053871463, 51.44445399817981]",NO2,10.1,-2.5906680053871463,51.44445399817981,0.2500305623163789
+282,287,Whitehouse Street,Urban Traffic,"[-2.5895314595024126, 51.444468722970655]",NO2,10.6,-2.5895314595024126,51.444468722970655,0.25009438075162854
+283,288,Avonmouth Primary School,Urban Background,"[-2.6829310686536196, 51.49650004190421]",Lead,6.3,-2.6829310686536196,51.49650004190421,0.4756023280905424
+284,289,Bear Pit Railing,Urban Traffic,"[-2.5908329411308553, 51.45949653924294]",NO2,11.3,-2.5908329411308553,51.45949653924294,0.31522615273067917
+285,290,Bear Pit Toilet Block,Urban Traffic,"[-2.590442355418167, 51.4593456474304]",NO2,11.6,-2.590442355418167,51.4593456474304,0.3145721754029244
+286,291,Traffic Light Avon House,Urban Traffic,"[-2.590276490539759, 51.45987701069157]",NO2,14.5,-2.590276490539759,51.45987701069157,0.31687514678195466
+287,292,Shop Parade,Urban Traffic,"[-2.59105660128102, 51.458982867104005]",NO2,13.7,-2.59105660128102,51.458982867104005,0.3129998561072046
+288,293,Bond St. Lamp post,Urban Traffic,"[-2.5895358309890937, 51.4593682026125]",NO2,12.8,-2.5895358309890937,51.4593682026125,0.3146699313876128
+289,294,Castle Court forecourt sainsburys,Urban Industrial,"[-2.559942460245847, 51.44407445295636]",BTX,12.7,-2.559942460245847,51.44407445295636,0.24838558259998128
+290,295,Lamppost   16 Ashley Road St. Pauls,Urban Traffic,"[-2.5784691258443537, 51.46637417718384]",NO2,12.4,-2.5784691258443537,51.46637417718384,0.34503439219837717
+291,297,Facade   383 Church Road Redfield,Urban Traffic,"[-2.543745984399879, 51.46034470726591]",NO2,59.0,-2.543745984399879,51.46034470726591,0.3189021815875019
+292,298,Facade St. Georges Library   Church Road St. George,Urban Traffic,"[-2.5443799337715585, 51.460395725177996]",NO2,56.0,-2.5443799337715585,51.460395725177996,0.31912329734754125
+293,299,Facade Ye Olde Flower Shop 218 Church Road St. George,Urban Traffic,"[-2.549723554862103, 51.459480700860084]",NO2,39.7,-2.549723554862103,51.459480700860084,0.31515750789751695
+294,300,Facade Haart Estate Agents 755 Fishponds Road Fishponds,Urban Traffic,"[-2.528940434676714, 51.4807065329419]",NO2,58.5,-2.528940434676714,51.4807065329419,0.40715198202267816
+295,301,Lamppost   717 Fishponds Road Fishponds,Urban Traffic,"[-2.530284180181298, 51.47985525120948]",NO2,59.2,-2.530284180181298,51.47985525120948,0.4034624580970789
+296,302,Facade Cafe Culture 597 Fishponds Road Fishponds,Urban Traffic,"[-2.5373950654560877, 51.47717935105245]",NO2,57.1,-2.5373950654560877,51.47717935105245,0.3918648902463345
+297,303,Facade   784 Muller Road Fishponds,Urban Traffic,"[-2.5576178277416295, 51.474162843356474]",NO2,24.7,-2.5576178277416295,51.474162843356474,0.37879110175521546
+298,304,Lamppost     Russell Town Avenue Redfield,Urban Traffic,"[-2.562746128663929, 51.45797137360283]",NO2,18.9,-2.562746128663929,51.45797137360283,0.308615961409326
+299,305,Lamppost     Sarah Street Redfield,Urban Traffic,"[-2.5675966346929537, 51.457957022808344]",NO2,21.3,-2.5675966346929537,51.457957022808344,0.30855376390455835
+300,306,Lamppost     Cottrell Road \ Muller Road Horfield,Urban Traffic,"[-2.561807071006131, 51.47527586106861]",NO2,12.4,-2.561807071006131,51.47527586106861,0.38361501060011965
+301,307,Lamppost     Glenfrome Road \ Muller Road Horfield,Urban Traffic,"[-2.5665763518305753, 51.47554072759728]",NO2,22.9,-2.5665763518305753,51.47554072759728,0.38476296357195894
+302,308,Lamppost     Muller Road Horfield,Urban Traffic,"[-2.575604172041498, 51.48007338782732]",NO2,28.3,-2.575604172041498,51.48007338782732,0.4044078798533708
+303,309,Lamppost     Muller Road \ Downend Road Horfield,Urban Traffic,"[-2.5796699304440986, 51.484989623069794]",NO2,48.6,-2.5796699304440986,51.484989623069794,0.42571524128277566
+304,310,Lamppost     Muller Road \ Filton Avenue Horfield,Urban Traffic,"[-2.5821753098498275, 51.48834004019875]",NO2,64.6,-2.5821753098498275,51.48834004019875,0.440236220280923
+305,311,Give Way sign  Chesterfield Rd \ Ashley Down Road St. Andrews,Urban Traffic,"[-2.581951429911825, 51.47302874517212]",NO2,50.1,-2.581951429911825,51.47302874517212,0.3738758284376098
+306,312,Lamppost     Ashley Hill St. Pauls,Urban Traffic,"[-2.579669474517358, 51.46907474789318]",NO2,17.3,-2.579669474517358,51.46907474789318,0.3567388842195262
+307,313,Lamppost     Hendre Road \ Winterstoke Road Ashton,Urban Traffic,"[-2.617983049134436, 51.43513272586409]",NO2,7.8,-2.617983049134436,51.43513272586409,0.20963141369610114
+308,314,Lamppost     Whiteladies Road \ Cotham Hill Clifton,Urban Traffic,"[-2.609561568451857, 51.463950422011955]",NO2,56.6,-2.609561568451857,51.463950422011955,0.33452964112025657
+309,315,Lamppost     M5 Lawrence Weston Road 25m from carriageway Avonmouth,Urban Traffic,"[-2.6610680828174953, 51.50875505096339]",NO2,13.2,-2.6610680828174953,51.50875505096339,0.5287165291947509
+310,316,Lamppost     M5 Lawrence Weston Road 50m from carriageway Avonmouth,Urban Traffic,"[-2.6615167069431593, 51.5088873876683]",NO2,12.9,-2.6615167069431593,51.5088873876683,0.529290087184337
+311,317,Monitor     A37 Wells Road Knowle,Urban Traffic,"[-2.5637420738696934, 51.4278622149951]",NO2,35.0,-2.5637420738696934,51.4278622149951,0.17812043116145468
+312,318,Monitor     Rupert Street City Centre,Urban Traffic,"[-2.5962642845403927, 51.45544957513415]",NO2,8.9,-2.5962642845403927,51.45544957513415,0.2976862827479011
+313,319,Monitor     Temple Way Temple Meads,Urban Traffic,"[-2.5843930343660486, 51.44887346258624]",NO2,9.0,-2.5843930343660486,51.44887346258624,0.2691848787369275
+314,320,Monitor     Bath Road Brislington,Urban Background,"[-2.559928492012364, 51.441754643448974]",NO2,14.5,-2.559928492012364,51.441754643448974,0.23833134044449356
+315,321,Monitor     Trailer Portway Park and Ride,Urban Traffic,"[-2.688781973905141, 51.489991938848746]",NO2,11.5,-2.688781973905141,51.489991938848746,0.4473956827240761
+316,322,Monitor     Castlemead City Centre,Urban Background,"[-2.585665094675146, 51.45721158920809]",NO2,10.3,-2.585665094675146,51.45721158920809,0.305322994350461
+317,324,Facade   742 Muller Road Fishponds,Urban Traffic,"[-2.5595101957623103, 51.4746663833366]",NO2,17.4,-2.5595101957623103,51.4746663833366,0.3809734847823613
+318,325,Facade   258 Fishponds Road Fishponds,Urban Traffic,"[-2.5533056318757437, 51.47358075575956]",NO2,36.6,-2.5533056318757437,51.47358075575956,0.3762682869997719
+319,326,Lamp post Roundabout poplar way,Urban Background,"[-2.6760305561207276, 51.518820957624705]",NO2,7.1,-2.6760305561207276,51.518820957624705,0.5723429833347554
+320,327,Lamp post bridge poplar way east,Urban Background,"[-2.672406458350602, 51.51838326633245]",NO2,7.2,-2.672406458350602,51.51838326633245,0.5704459938501983
+321,328,Lamp post industrial units entrance,Urban Background,"[-2.6725841772049916, 51.52065710041124]",NO2,6.5,-2.6725841772049916,51.52065710041124,0.5803009747772153
+322,329,Lamp post bridge poplar way west,Urban Background,"[-2.6787928245592676, 51.52138553605933]",NO2,7.2,-2.6787928245592676,51.52138553605933,0.583458073830921
+323,332,Days Road Kingsland Road,Urban Background,"[-2.5749302467218658, 51.45280483093218]",NO2,12.5,-2.5749302467218658,51.45280483093218,0.28622374732793565
+324,333,Days Road Chancery Street,Urban Background,"[-2.5685130354710606, 51.45524602213571]",NO2,17.5,-2.5685130354710606,51.45524602213571,0.2968040675783784
+325,334,Days Road Peters Terrace,Urban Background,"[-2.5685960156984726, 51.45613581628728]",NO2,14.5,-2.5685960156984726,51.45613581628728,0.3006605074455014
+326,335,Days Road Sarah Street,Urban Background,"[-2.568119932238942, 51.457208163621175]",NO2,16.8,-2.568119932238942,51.457208163621175,0.30530814757951286
+327,336,Days Road Oxford Street,Urban Background,"[-2.575972079893748, 51.45210732770621]",NO2,10.8,-2.575972079893748,51.45210732770621,0.28320071189514157
+328,337,Hartcliffe Hilltop Farm,Urban Background,"[-2.601689946216669, 51.42472462626071]",NO2,45.0,-2.601689946216669,51.42472462626071,0.16452186765032267
+329,338,Hartcliffe Novers Hill,Urban Background,"[-2.5998440677254386, 51.4254534425822]",NO2,52.2,-2.5998440677254386,51.4254534425822,0.16768061657337777
+330,339,Hartcliffe Crantock Avenue,Urban Background,"[-2.60648795937793, 51.42425921573714]",NO2,20.4,-2.60648795937793,51.42425921573714,0.16250474077381172
+331,340,Hartcliffe Novers Park Drive 1,Urban Background,"[-2.5989257472096385, 51.426716956371294]",NO2,51.6,-2.5989257472096385,51.426716956371294,0.1731567875959918
+332,341,Hartcliffe Novers Park Drive 2,Urban Background,"[-2.5973192698879353, 51.42706682909667]",NO2,61.6,-2.5973192698879353,51.42706682909667,0.1746731643042094
+333,342,Hengrove Whitchurch Lane,Urban Background,"[-2.5960087357980983, 51.41270450710294]",NO2,44.3,-2.5960087357980983,51.41270450710294,0.1124256983892602
+334,343,Hengrove Hawkfield Road,Urban Background,"[-2.5948469718987397, 51.41182921222444]",NO2,46.6,-2.5948469718987397,51.41182921222444,0.10863209954510526
+335,344,Hengrove Rowacres,Urban Background,"[-2.57739893573497, 51.414748878538084]",NO2,57.6,-2.57739893573497,51.414748878538084,0.12128616964748583
+336,345,Hengrove Inns Court Drive,Urban Background,"[-2.5919230471259005, 51.41700540057298]",NO2,53.6,-2.5919230471259005,51.41700540057298,0.13106611877513868
+337,346,Hartcliffe A4174,Urban Background,"[-2.604257798497759, 51.425286859367525]",NO2,15.9,-2.604257798497759,51.425286859367525,0.16695863143878562
+338,348,Hengrove Hengrove Leisure Park,Urban Background,"[-2.5836920272011676, 51.41548213449389]",NO2,56.6,-2.5836920272011676,51.41548213449389,0.12446416030498658
+339,349,Hengrove Penrose,Urban Background,"[-2.579296414480027, 51.41811149229388]",NO2,52.3,-2.579296414480027,51.41811149229388,0.13586000981347848
+340,350,153 Muller Road Façade,Urban Traffic,"[-2.579256108996483, 51.48415545636801]",NO2,44.6,-2.579256108996483,51.48415545636801,0.4220998952851386
+341,351,M4 J18 Climbing Lane Near Springs Farm,Urban Traffic,"[-2.366795987602053, 51.50100867912015]",NO2,135.0,-2.366795987602053,51.50100867912015,0.4951431266845504
+342,352,M4 j19 - 20 widening North East Green Acres Farm,Urban Traffic,"[-2.5282764498220396, 51.52665700249329]",NO2,54.1,-2.5282764498220396,51.52665700249329,0.6063050359943514
+343,353,M4 j19 - 20 widening SW1 Palmers Leaze,Urban Traffic,"[-2.5309360389212516, 51.527274396362245]",NO2,56.1,-2.5309360389212516,51.527274396362245,0.6089808709903071
+344,354,M4 j19 - 20 widening SW1 Ormond Close,Urban Traffic,"[-2.545439981535278, 51.54190013262317]",NO2,61.0,-2.545439981535278,51.54190013262317,0.6723699956583393
+345,355,M5 J16 - 17 N Chillington Court,Urban Traffic,"[-2.5861048647697453, 51.53970746010633]",NO2,83.9,-2.5861048647697453,51.53970746010633,0.6628667755095143
+346,356,M5 J16 - 17 S Falcon Close,Urban Traffic,"[-2.5912848238365425, 51.53443927767475]",NO2,83.2,-2.5912848238365425,51.53443927767475,0.6400340464781936
+347,357,M5 J17 - 18 Hallen Hill - Hollywood Lane S of M5,Urban Traffic,"[-2.613601119492532, 51.526825618231726]",NO2,63.4,-2.613601119492532,51.526825618231726,0.6070358302514187
+348,358,M5 J19 - 20 Naish Hill - Station Road S of M5,Urban Traffic,"[-2.7254030589509854, 51.47601373149147]",NO2,9.1,-2.7254030589509854,51.47601373149147,0.38681300073128916
+349,359,M5 J19 - 20 Tickenham Hill Housing Adjacent to J20,Urban Traffic,"[-2.841914759125154, 51.43032990334681]",NO2,5.7,-2.841914759125154,51.43032990334681,0.1888155921966053
+350,360,M5 J19 - 20 Tickenham Hill N of J20,Urban Traffic,"[-2.8288650535934075, 51.439711461628455]",NO2,6.1,-2.8288650535934075,51.439711461628455,0.2294760250723499
+351,361,M5 J19 - 20 Tickenham Hill EXTRA GRADIENT,Urban Traffic,"[-2.8123529902434155, 51.44567168294676]",NO2,71.8,-2.8123529902434155,51.44567168294676,0.2553081066479241
+352,362,M5 J17 - 18 Hallen Hill EXTRA GRADIENT,Urban Traffic,"[-2.640722094211748, 51.518030537331704]",NO2,39.5,-2.640722094211748,51.518030537331704,0.568917237813347
+353,363,5102 façade,Urban Traffic,"[-2.5904508343277635, 51.46000201860569]",NO2,14.9,-2.5904508343277635,51.46000201860569,0.3174169411990952
+354,364,St. Matthias House façade,Urban Traffic,"[-2.583900235979459, 51.45764303127193]",NO2,10.7,-2.583900235979459,51.45764303127193,0.3071928991732731
+355,365,Unite façade,Urban Traffic,"[-2.5840058707362235, 51.456896172528815]",NO2,11.5,-2.5840058707362235,51.456896172528815,0.30395595293466826
+356,366,Broad Weir post development,Urban Traffic,"[-2.5860214525894945, 51.45694004613227]",NO2,10.4,-2.5860214525894945,51.45694004613227,0.30414610468287906
+357,367,River Street facade 1,Urban Traffic,"[-2.5819681171197044, 51.45850688943252]",NO2,10.5,-2.5819681171197044,51.45850688943252,0.31093693035641257
+358,368,River Street facade 2,Urban Traffic,"[-2.581041038449675, 51.45917689894401]",NO2,10.3,-2.581041038449675,51.45917689894401,0.31384080580546936
+359,369,Wellington Road post development,Urban Traffic,"[-2.5816329704675147, 51.45931783011754]",NO2,9.7,-2.5816329704675147,51.45931783011754,0.3144516129176256
+360,370,Great George Street lamppost,Urban Traffic,"[-2.580364235719915, 51.45915328091228]",NO2,11.4,-2.580364235719915,51.45915328091228,0.3137384433444775
+361,371,Lamb Street façade,Urban Traffic,"[-2.5798013916761766, 51.45789720012195]",NO2,14.7,-2.5798013916761766,51.45789720012195,0.30829448754005523
+362,372,Avon Street Temple Way junction post development,Urban Traffic,"[-2.5837853271705256, 51.45313863774818]",NO2,10.1,-2.5837853271705256,51.45313863774818,0.28767049308466835
+363,373,123 Newfoundland Street façade,Urban Traffic,"[-2.5807970072165762, 51.46149802931238]",NO2,10.4,-2.5807970072165762,51.46149802931238,0.3239007726793836
+364,374,St. Paul Street,Urban Traffic,"[-2.584202125312944, 51.45987152926584]",NO2,10.6,-2.584202125312944,51.45987152926584,0.3168513898392047
+365,375,Newfoundland Road Police Station,Urban Traffic,"[-2.5822547416000647, 51.46067252275917]",NOX NO2 NO,10.5,-2.5822547416000647,51.46067252275917,0.32032296046656034
+366,376,Hallen,Rural Industrial,"[-2.6587801260686, 51.514963078862294]",Lead,6.8,-2.6587801260686,51.514963078862294,0.5556226245465323
+367,377,A4174 UWE,Urban Traffic,"[-2.544065382732682, 51.50525652733726]",NOX NO2 NO,57.9,-2.544065382732682,51.50525652733726,0.513553644651074
+368,378,Easton Business Park,Urban Background,"[-2.5684033184437385, 51.462655852072366]",NOX NO2 NO,13.9,-2.5684033184437385,51.462655852072366,0.32891887022790106
+369,379,Dundry,Urban Background,"[-2.641743669229477, 51.39685218394142]",NOX NO2 NO,228.2,-2.641743669229477,51.39685218394142,0.043720446821989896
+370,380,Orange Street Façade,Urban Traffic,"[-2.583361534487308, 51.460550117798576]",NO2,11.2,-2.583361534487308,51.460550117798576,0.31979244746068153
+371,381,No. 6 Borewell,Urban Industrial,"[-2.67472047753152, 51.510160730626865]",SO2,7.0,-2.67472047753152,51.510160730626865,0.5348088586229491
+372,382,Wessex Water,Urban Industrial,"[-2.6744352270050524, 51.51036018697231]",PM,7.2,-2.6744352270050524,51.51036018697231,0.5356733185668096
+373,383,No. 6 Borewell,Urban Industrial,"[-2.6744928625516136, 51.51035985487256]",MET,7.1,-2.6744928625516136,51.51035985487256,0.5356718792196365
+374,384,Anstee and Ware,Urban Industrial,"[-2.697352668971028, 51.506971038836994]",HM,7.2,-2.697352668971028,51.506971038836994,0.5209844762524768
+375,385,Atwood Drive,Urban Background,"[-2.654401983927133, 51.50713808796197]",HM,7.2,-2.654401983927133,51.50713808796197,0.521708480680004
+376,386,Sevalco Roadside,Urban Background,"[-2.672320489670088, 51.532068962498826]",SO2,6.4,-2.672320489670088,51.532068962498826,0.6297609086676499
+377,387,Start of Cutting Northbound carriageway Hallen Large Lamppost,Urban Traffic,"[-2.643706476896052, 51.51707903826317]",NO2,33.3,-2.643706476896052,51.51707903826317,0.5647933638420926
+378,388,Property Boundary Oakhill Lane M5 South carriageway rear garden,Urban Traffic,"[-2.645300713288271, 51.51566758641792]",NO2,16.3,-2.645300713288271,51.51566758641792,0.5586760173109288
+379,389,Station Road facing Mway closest property to carriageway,Urban Traffic,"[-2.725140191738102, 51.47578157803396]",NO2,9.6,-2.725140191738102,51.47578157803396,0.38580682885742945
+380,390,Station road two doors down from HA-NEW-3,Urban Traffic,"[-2.7247883769167394, 51.47538812437097]",NO2,10.3,-2.7247883769167394,51.47538812437097,0.3841015688384304
+381,391,Junction of priory road with station road Lamppost,Urban Traffic,"[-2.724651678204164, 51.47584754508454]",NO2,9.2,-2.724651678204164,51.47584754508454,0.3860927353935977
+382,392,Cole Acre North of M5 over footbridge Lamppost,Urban Traffic,"[-2.7271040287388106, 51.47703721472882]",NO2,8.5,-2.7271040287388106,51.47703721472882,0.39124885991611286
+383,393,Substation Post Nearest M5 Station Road,Urban Traffic,"[-2.7251165368874877, 51.47610542325394]",NO2,8.7,-2.7251165368874877,51.47610542325394,0.38721040025077974
+384,394,Sevalco North (on site),Urban Industrial,"[-2.6668894842461484, 51.53431197704922]",SO2,8.2,-2.6668894842461484,51.53431197704922,0.6394823152642561
+385,395,Shiner's Garage,Urban Traffic,"[-2.562715138957263, 51.457791685263544]",NOX NO2 NO,19.4,-2.562715138957263,51.457791685263544,0.3078371776040355
+386,396,Avonmouth Rd No 28 on facia,Urban Traffic,"[-2.6842920363711995, 51.495997564902645]",NO2,7.2,-2.6842920363711995,51.495997564902645,0.4734245520984844
+387,397,facade avonmouth road underpass - house to SE,Urban Traffic,"[-2.684503231032343, 51.49567263755888]",NO2,7.0,-2.684503231032343,51.49567263755888,0.4720162906930879
+388,398,Avonmouth Rd No 31 on facia,Urban Traffic,"[-2.6856205784846443, 51.49621458062661]",NO2,7.0,-2.6856205784846443,51.49621458062661,0.4743651158099942
+389,399,facade house on portway M5 underpass,Urban Traffic,"[-2.688759231445612, 51.49324696067631]",NO2,7.6,-2.688759231445612,51.49324696067631,0.46150321076530154
+390,400,facade west town lane M5 underpass,Urban Traffic,"[-2.688773214505766, 51.49226680777461]",NO2,8.8,-2.688773214505766,51.49226680777461,0.4572551487620649
+391,401,facade ashton road - house closest UP,Urban Traffic,"[-2.6238730427071917, 51.440927732135385]",NO2,7.2,-2.6238730427071917,51.440927732135385,0.23474743988651026
+392,402,Bath Rd No 23 lamppost 48 (opp Book Barn),Urban Traffic,"[-2.569824619558006, 51.44266009106057]",NO2,20.8,-2.569824619558006,51.44266009106057,0.2422556236742558
+393,403,Lamp post 48 230 Bath Road,Urban Traffic,"[-2.569609138020519, 51.44268811519855]",NO2,19.9,-2.569609138020519,51.44268811519855,0.24237708255636636
+394,404,shiners garage triplicate QAQC tubes contin,Urban Traffic,"[-2.562412779657948, 51.45778414182584]",NO2,19.6,-2.562412779657948,51.45778414182584,0.30780448373450975
+395,405,Whitehall Rd/Easton Rd lamppost 4TZ,Urban Traffic,"[-2.5620241957610603, 51.46131078275401]",NO2,19.1,-2.5620241957610603,51.46131078275401,0.3230892309408792
+396,406,Whitehall Rd lamppost 17 nr juction with Chalks Rd,Urban Traffic,"[-2.554474273381457, 51.461913113538955]",NO2,30.5,-2.554474273381457,51.461913113538955,0.32569978131160937
+397,407,lamppost sussex place,Urban Traffic,"[-2.579684589088057, 51.46686272655781]",NO2,14.9,-2.579684589088057,51.46686272655781,0.34715180472520935
+398,408,Cotham Brow/Cheltenham Rd existing site junction,Urban Traffic,"[-2.593556669745938, 51.468609553541945]",NO2,28.8,-2.593556669745938,51.468609553541945,0.3547226942514268
+399,409,facade cotham brow arches elysee guest house,Urban Traffic,"[-2.59350890929057, 51.46936509537074]",NO2,26.0,-2.59350890929057,51.46936509537074,0.35799727368612877
+400,410,facade cotham girls school cheltenham rd,Urban Traffic,"[-2.591429137563103, 51.46774813265903]",NO2,29.0,-2.591429137563103,51.46774813265903,0.3509892264270067
+401,411,facade 21 bath buildings,Urban Traffic,"[-2.589754226968212, 51.46625494827584]",NO2,21.5,-2.589754226968212,51.46625494827584,0.34451764446149113
+402,412,facade cromwell road west,Urban Traffic,"[-2.592040248429614, 51.46935454963561]",NO2,30.2,-2.592040248429614,51.46935454963561,0.35795156761657304
+403,413,Wells Rd bus lane sign just below junction with Knowle Rd,Urban Traffic,"[-2.5762804340612657, 51.44114488211999]",NO2,48.3,-2.5762804340612657,51.44114488211999,0.23568858549452287
+404,414,facade junction brecknock road with a37,Urban Traffic,"[-2.573599895926378, 51.439656464701415]",NO2,59.9,-2.573599895926378,51.439656464701415,0.2292376639394564
+405,415,facade junction hengrove road with a37,Urban Traffic,"[-2.568734550888664, 51.436020608331994]",NO2,71.4,-2.568734550888664,51.436020608331994,0.2134795681715173
+406,416,Wells Rd - Knowle shopping centre lamppost 41 (outside Miss Millies),Urban Traffic,"[-2.5651315059211806, 51.43202771447131]",NO2,68.6,-2.5651315059211806,51.43202771447131,0.1961740430201236
+407,417,St John's Lane No 26 lamppost 15 (just past roundabout),Urban Traffic,"[-2.582139627451474, 51.44026172830578]",NO2,18.3,-2.582139627451474,51.44026172830578,0.23186092538691733
+408,418,Bedminster Down Rd lamppost between Ashton Motors & Plough PH,Urban Traffic,"[-2.6093544755770486, 51.43319095432308]",NO2,23.8,-2.6093544755770486,51.43319095432308,0.2012156186828615
+409,419,Parson St lamppost outside Bristol Scuba,Urban Traffic,"[-2.607993206444486, 51.43359367276595]",NO2,23.1,-2.607993206444486,51.43359367276595,0.20296103300770837
+410,420,North St/Dean Lane on roundabout sign,Urban Traffic,"[-2.6016946298198658, 51.44150252005292]",NO2,11.4,-2.6016946298198658,51.44150252005292,0.23723861724075454
+411,422,North St/Langton Park T junction,Urban Traffic,"[-2.6032584687699525, 51.441161790403015]",NO2,13.2,-2.6032584687699525,51.441161790403015,0.23576186736159063
+412,423,facade BRI children's,Urban Traffic,"[-2.5969298864918815, 51.457927964902254]",NO2,27.2,-2.5969298864918815,51.457927964902254,0.30842782458780305
+413,424,facade BRI main building,Urban Traffic,"[-2.5957347363481476, 51.45899510887161]",NO2,22.9,-2.5957347363481476,51.45899510887161,0.31305291291878223
+414,425,Ashley Rd P sign outside International Market (nr Dalrymple Rd),Urban Traffic,"[-2.5870166521652482, 51.4649558866608]",NO2,23.1,-2.5870166521652482,51.4649558866608,0.3388874062842185
+415,426,City Rd/Ashley Rd lamppost No 16,Urban Traffic,"[-2.5841510378553543, 51.46488929614172]",NO2,17.0,-2.5841510378553543,51.46488929614172,0.33859879758510425
+416,427,Fishponds Rd lamppost 37 outside PO (just before Oakdene Ave),Urban Traffic,"[-2.548611365857152, 51.4735398155148]",NO2,43.1,-2.548611365857152,51.4735398155148,0.37609084866551606
+417,428,Fishponds Rd/Elmgrove Rd lamppost 53 (outside video centre),Urban Traffic,"[-2.540735598059096, 51.475959130381696]",NO2,54.8,-2.540735598059096,51.475959130381696,0.38657635510246563
+418,429,facade villiers road stapleton road junction,Urban Traffic,"[-2.5702250470608017, 51.46445435847903]",NO2,12.3,-2.5702250470608017,51.46445435847903,0.336713742553948
+419,430,Gaol Ferry Bridge,Urban Traffic,"[-2.599453193014993, 51.44616268989063]",NO2,13.6,-2.599453193014993,51.44616268989063,0.2574361704815971
+420,431,Cannon's Road,Urban Traffic,"[-2.6012223385964837, 51.44940859904364]",NO2,9.6,-2.6012223385964837,51.44940859904364,0.27150420345381276
+421,432,16 Lower Ashley Road,Urban Traffic,"[-2.578598683062464, 51.466373537592624]",BTX,12.6,-2.578598683062464,51.466373537592624,0.34503162015829225
+422,433,Bristol Scuba,Urban Traffic,"[-2.6080674045400425, 51.433764126145526]",BTX,22.6,-2.6080674045400425,51.433764126145526,0.2036997917501866
+423,434,Whitehall Rd/Easton Rd lamppost 4TZ,Urban Traffic,"[-2.5618949817744006, 51.46133837579194]",BTX,19.5,-2.5618949817744006,51.46133837579194,0.32320882140046003
+424,435,Old Market,Urban Traffic,"[-2.5831739784339502, 51.45599213461197]",BTX,14.0,-2.5831739784339502,51.45599213461197,0.3000377794360299
+425,436,Shiners Garage,Urban Traffic,"[-2.562513749677538, 51.45780164191159]",NO2,19.4,-2.562513749677538,51.45780164191159,0.3078803305224807
+426,437,Almondsbury School,Rural Industrial,"[-2.574897107857412, 51.55309786673107]",NO2,43.1,-2.574897107857412,51.55309786673107,0.7209018815546897
+427,438,A37 Junction w/ Airport Road,Urban Traffic,"[-2.5637420738696934, 51.4278622149951]",NO2,35.0,-2.5637420738696934,51.4278622149951,0.17812043116145468
+428,439,Parson Street School,Urban Traffic,"[-2.604960010761926, 51.43267429331247]",NO2,14.9,-2.604960010761926,51.43267429331247,0.19897636804766453
+429,440,Littlestoke Parish Hall,Urban Background,"[-2.554039520984241, 51.52570164161562]",NO2,55.6,-2.554039520984241,51.52570164161562,0.602164424629761
+430,441,Avon Probation Service,Urban Traffic,"[-2.5822547416000647, 51.46067252275917]",NO2,10.5,-2.5822547416000647,51.46067252275917,0.32032296046656034
+431,442,Former Shell Tank Farm,Rural Industrial,"[-2.6770446319342347, 51.535647385204996]",MET,7.7,-2.6770446319342347,51.535647385204996,0.6452700822907469
+432,443,CREATE Roof,Urban Background,"[-2.622476440420217, 51.447211396059075]",RAIN RH TEMP SOLAR,8.4,-2.622476440420217,51.447211396059075,0.2619813478911911
+433,444,13 Passage Road,Urban Traffic,"[-2.6172552702956153, 51.49536288848121]",NO2,30.4,-2.6172552702956153,51.49536288848121,0.47067381312135403
+434,445,CH Ramp North,Urban Traffic,"[-2.6014988721420242, 51.46932431032891]",NO2,48.2,-2.6014988721420242,51.46932431032891,0.3578205080139465
+435,446,Council House Ramp South,Urban Traffic,"[-2.6019031631453124, 51.45194080210739]",NO2,17.0,-2.6019031631453124,51.45194080210739,0.2824789764723366
+436,447,Bath Road,Urban Traffic,"[-2.5713770437173356, 51.44253563023834]",NOX NO2 NO,23.1,-2.5713770437173356,51.44253563023834,0.24171620039766006
+437,448,Economy Cars,Urban Traffic,"[-2.5713770437173356, 51.44253563023834]",NO2,23.1,-2.5713770437173356,51.44253563023834,0.24171620039766006
+438,449,Eastgate Market,Urban Traffic,"[-2.5697911616503264, 51.47353804172928]",NO2,20.8,-2.5697911616503264,51.47353804172928,0.37608316093551253
+439,450,Industrial Museum,Urban Industrial,"[-2.5990531294679786, 51.44748651673968]",SO2,8.2,-2.5990531294679786,51.44748651673968,0.2631737431874359
+440,451,Hallen Village,Urban Traffic,"[-2.648816518626915, 51.517644259657565]",Lead,7.8,-2.648816518626915,51.517644259657565,0.5672430791107957
+441,452,AURN St Pauls,Urban Background,"[-2.584542173580753, 51.46282818704422]",NOX NO2 NO PM2.5 PM10 O3,13.2,-2.584542173580753,51.46282818704422,0.3296657839435864
+442,453,Exclusively Yours LAR,Urban Traffic,"[-2.5791466123946045, 51.466442766327134]",BTX,14.0,-2.5791466123946045,51.466442766327134,0.34533166309658925
+443,454,Teoh's LAR,Urban Traffic,"[-2.5777194384477204, 51.46628795635799]",BTX,10.9,-2.5777194384477204,51.46628795635799,0.34466070416098477
+444,455,St. Pauls Day Nursery,Urban Background,"[-2.584556567599703, 51.46282811520338]",NO2,13.2,-2.584556567599703,51.46282811520338,0.32966547257958334
+445,456,Newfoundland Way Police Station,Urban Traffic,"[-2.5822689060994395, 51.46065446842412]",NO2,10.6,-2.5822689060994395,51.46065446842412,0.3202447115172475
+446,457,Holesmouth New,Urban Traffic,"[-2.691105729453576, 51.52163725111761]",NO2,7.0,-2.691105729453576,51.52163725111761,0.5845490272657211
+447,458,62 Callington Road,Urban Traffic,"[-2.5513263855350816, 51.43121207021514]",NO2,26.7,-2.5513263855350816,51.43121207021514,0.1926389748008681
+448,459,Cheltenham Road \ Station Road,Urban Traffic,"[-2.59272590022497, 51.46893746332238]",NO2,26.4,-2.59272590022497,51.46893746332238,0.35614388177875755
+449,460,Cheltenham Road \ Station Road,Urban Traffic,"[-2.59272590022497, 51.46893746332238]",NOX NO2 NO,26.4,-2.59272590022497,51.46893746332238,0.35614388177875755
+450,461,Millpond School Fence,Urban Traffic,"[-2.5717422417213625, 51.467216454273306]",NO2,12.4,-2.5717422417213625,51.467216454273306,0.3486848892726322
+451,462,Millpond School play area,Urban Traffic,"[-2.5716819650154132, 51.46700094588352]",NO2,13.1,-2.5716819650154132,51.46700094588352,0.34775085846943377
+452,463,Fishponds Road,Urban Traffic,"[-2.5352309297907847, 51.478043445807764]",NOX NO2 NO,58.5,-2.5352309297907847,51.478043445807764,0.39560994685014966
+453,464,Fishponds Road,Urban Traffic,"[-2.5352167419015728, 51.478061493831255]",NO2,58.4,-2.5352167419015728,51.478061493831255,0.3956881684446538
+454,465,North Street School fence,Urban Traffic,"[-2.6148912161201765, 51.44279157952951]",NO2,11.2,-2.6148912161201765,51.44279157952951,0.24282550534049563
+455,466,Savanna coffee drainpipe,Urban Traffic,"[-2.613369622751169, 51.44198133281036]",NO2,13.7,-2.613369622751169,51.44198133281036,0.23931383048351143
+456,467,Strada Exeter Road,Urban Traffic,"[-2.6118920233717327, 51.44122482425468]",NO2,17.2,-2.6118920233717327,51.44122482425468,0.23603506117627138
+457,468,façade of North Street near Myrtle Street,Urban Traffic,"[-2.607980164508629, 51.44025620174544]",NO2,19.7,-2.607980164508629,51.44025620174544,0.23183697282713472
+458,469,Lamppost corner park avenue,Urban Traffic,"[-2.5843497522955303, 51.43756233172123]",NO2,20.0,-2.5843497522955303,51.43756233172123,0.22016152211766624
+459,470,Victoria Park Primary,Urban Traffic,"[-2.5881630637026727, 51.43649126588975]",NO2,15.5,-2.5881630637026727,51.43649126588975,0.21551943611883156
+460,471,property façade nr. Paultow Road,Urban Traffic,"[-2.591356789217074, 51.43647518379148]",NO2,14.3,-2.591356789217074,51.43647518379148,0.21544973500334771
+461,472,Jamiesons Autos,Urban Traffic,"[-2.602395775076308, 51.438999373728244]",NO2,21.6,-2.602395775076308,51.438999373728244,0.22638977848101033
+462,473,B&G Snax West St,Urban Traffic,"[-2.6041177053697546, 51.43755190496801]",NO2,25.0,-2.6041177053697546,51.43755190496801,0.22011633172533274
+463,474,Martial Arts West Street,Urban Traffic,"[-2.6057406035876896, 51.436239789177996]",NO2,27.5,-2.6057406035876896,51.436239789177996,0.21442951569718288
+464,475,18 Morton Street,Urban Traffic,"[-2.564379621260832, 51.457370072474056]",NO2,20.9,-2.564379621260832,51.457370072474056,0.3060098736517632
+465,476,Elmgrove Ave,Urban Traffic,"[-2.564004550669488, 51.46315360567412]",NO2,17.6,-2.564004550669488,51.46315360567412,0.3310761746228934
+466,477,rear 32 st marks grove,Urban Traffic,"[-2.5666063713960066, 51.46751111167392]",NO2,18.8,-2.5666063713960066,51.46751111167392,0.3499619582945798
+467,478,T shirt Shop W. Town Lane,Urban Traffic,"[-2.546700896652963, 51.43174624700053]",NO2,47.0,-2.546700896652963,51.43174624700053,0.19495414022160257
+468,479,cycle sign lamppost,Urban Traffic,"[-2.5492031928592462, 51.43168960184672]",NO2,34.0,-2.5492031928592462,51.43168960184672,0.1947086355404864
+469,480,Halston Drive,Urban Traffic,"[-2.581308885086421, 51.46326690055647]",NO2,13.4,-2.581308885086421,51.46326690055647,0.3315672038123448
+470,481,CREATE Centre Roof,Urban Background,"[-2.622476440420217, 51.447211396059075]",O3,8.4,-2.622476440420217,51.447211396059075,0.2619813478911911
+471,482,Avonmouth Road - Lampost (20) Opposite Number Hse No 45,Urban Traffic,"[-2.6863635802620007, 51.49676769928482]",NO2,6.4,-2.6863635802620007,51.49676769928482,0.4767623768405508
+472,483,Avonmouth Road - Lampost (19) Opposite Hse No 37,Urban Traffic,"[-2.6858704558143396, 51.49654580172218]",NO2,6.4,-2.6858704558143396,51.49654580172218,0.47580065484510886
+473,484,Avonmouth Road - School Sign Opposite Hse No 16,Urban Traffic,"[-2.6838985364230754, 51.49569415411049]",NO2,7.2,-2.6838985364230754,51.49569415411049,0.47210954516915693
+474,485,Avonmouth Road - Telegraph Pole Opposite Hse No 4,Urban Traffic,"[-2.6834038105657534, 51.49536435842276]",NO2,7.7,-2.6834038105657534,51.49536435842276,0.4706801839670062
+475,486,Barracks's Lane - Telegraph Pole No 6. End of Lane Left Hand Side,Urban Traffic,"[-2.6815513502054493, 51.49767697255328]",NO2,7.1,-2.6815513502054493,51.49767697255328,0.48070324077680576
+476,487,Junction 3 Millpond Street,Urban Traffic,"[-2.573720042158263, 51.46650542578656]",NO2,12.4,-2.573720042158263,51.46650542578656,0.34560323426498607
+477,488,Junction 3 Easton Way,Urban Traffic,"[-2.574263006082236, 51.46617905883684]",NO2,12.5,-2.574263006082236,51.46617905883684,0.3441887334908783
+478,489,Avonmouth Road Outside No 12,Urban Traffic,"[-2.6836955315396236, 51.49560542500961]",NO2,7.3,-2.6836955315396236,51.49560542500961,0.47172498606477553
+479,490,Avon School Barrack's Lane,Urban Traffic,"[-2.682995268806996, 51.49597816222333]",NO2,6.4,-2.682995268806996,51.49597816222333,0.4733404593160097
+480,491,Avonmouth Road Outside No 76,Urban Traffic,"[-2.682413977865146, 51.49467778841232]",NO2,9.1,-2.682413977865146,51.49467778841232,0.467704533975173
+481,492,On 1 way sign at bottom of Wellington Hill,Urban Traffic,"[-2.585472513480092, 51.48712774798134]",NO2,67.6,-2.585472513480092,51.48712774798134,0.4349820476955197
+482,493,No 67 Filton Avenue on wall facing Muller Rd,Urban Traffic,"[-2.5821462768020997, 51.4883222013051]",NO2,64.6,-2.5821462768020997,51.4883222013051,0.4401589050720888
+483,494,Muller Road - Adjacent to Darnley Avenue,Urban Traffic,"[-2.583870682260878, 51.48914084713158]",NO2,73.2,-2.583870682260878,51.48914084713158,0.44370698233997874
+484,495,On green fence surrounding Western Power substation (?) adjacent to No.1 Dorian Road,Urban Traffic,"[-2.586879688923095, 51.493531683343754]",NO2,78.3,-2.586879688923095,51.493531683343754,0.4627372218496315
+485,496,385 Church Road Redfield,Urban Traffic,"[-2.544090781580283, 51.460289162918656]",NO2,57.3,-2.544090781580283,51.460289162918656,0.318661447891096
+486,497,20 Ashley Road,Urban Traffic,"[-2.587732929554003, 51.46468253247841]",NO2,23.8,-2.587732929554003,51.46468253247841,0.3377026671342076
+487,498,Hungerford Road,Urban Traffic,"[-2.543991251704428, 51.42648063621701]",NO2,47.0,-2.543991251704428,51.42648063621701,0.17213255692107896
+488,499,Temple Way Nox site,Urban Traffic,"[-2.583990482463602, 51.45794830716138]",NO2,10.9,-2.583990482463602,51.45794830716138,0.3085159895852311
+489,500,Temple Way,Urban Traffic,"[-2.583990482463602, 51.45794830716138]",NOX NO2 NO PM10,10.9,-2.583990482463602,51.45794830716138,0.3085159895852311
+490,501,Colston Avenue,Urban Traffic,"[-2.5966505128659763, 51.45526776649955]",NOX NO2 NO,9.7,-2.5966505128659763,51.45526776649955,0.29689830941111856
+491,502,Co-located Colston Ave,Urban Traffic,"[-2.5966505128659763, 51.45526776649955]",NO2,9.7,-2.5966505128659763,51.45526776649955,0.29689830941111856
+492,503,Sea mills pharmacy no stopping sign,Urban Background,"[-2.6497908338890026, 51.48480185279275]",NO2,22.8,-2.6497908338890026,51.48480185279275,0.424901429705145
+493,504,Avonmouth primary,Urban Background,"[-2.6898831411937025, 51.495173511563195]",NO2,7.8,-2.6898831411937025,51.495173511563195,0.46985303823172225
+494,505,Henbury school,Urban Traffic,"[-2.6303243563445564, 51.50921230725529]",NO2,39.4,-2.6303243563445564,51.50921230725529,0.5306983149712438
+495,506,Woodstock school,Urban Background,"[-2.629783430942771, 51.50655371516105]",NO2,38.7,-2.629783430942771,51.50655371516105,0.5191757616654236
+496,507,Blaise school,Urban Traffic,"[-2.624652458927386, 51.50750728266908]",NO2,37.3,-2.624652458927386,51.50750728266908,0.5233086004208758
+497,508,Orchard school,Urban Traffic,"[-2.5793430830237836, 51.4989730974122]",NO2,84.5,-2.5793430830237836,51.4989730974122,0.4863207508153796
+498,509,Filton avenue primary,Urban Traffic,"[-2.576799798213823, 51.490371718185635]",NO2,58.3,-2.576799798213823,51.490371718185635,0.4490416771070538
+499,510,Ashley down primary,Urban Traffic,"[-2.583829408610143, 51.48364722961979]",NO2,52.2,-2.583829408610143,51.48364722961979,0.41989719942575804
+500,511,Sefton park,Urban Traffic,"[-2.5813908787246773, 51.47423640172697]",NO2,56.2,-2.5813908787246773,51.47423640172697,0.3791099096862837
+501,512,Colston girls,Urban Traffic,"[-2.5912513780743844, 51.46736238958165]",NO2,30.8,-2.5912513780743844,51.46736238958165,0.3493173847100713
+502,513,Cabot primary,Urban Background,"[-2.5818638560995995, 51.462760596342285]",NO2,13.7,-2.5818638560995995,51.462760596342285,0.3293728403710583
+503,514,St. Barnabas,Urban Background,"[-2.5814467748136782, 51.46732157153023]",NO2,13.7,-2.5814467748136782,51.46732157153023,0.3491404759716478
+504,515,St. Werburghs park nursery,Urban Traffic,"[-2.5724857261713465, 51.471402904817076]",NO2,14.2,-2.5724857261713465,51.471402904817076,0.36682930475375847
+505,516,Fairfield high school,Urban Background,"[-2.5714150557404785, 51.47558920828893]",NO2,46.1,-2.5714150557404785,51.47558920828893,0.3849730828132998
+506,517,Glenfrome primary,Urban Background,"[-2.5640913801551366, 51.47835799007666]",NO2,20.6,-2.5640913801551366,51.47835799007666,0.39697320716873885
+507,518,Fishponds c of e,Urban Traffic,"[-2.5343377014595125, 51.4792344163859]",NO2,54.0,-2.5343377014595125,51.4792344163859,0.4007717097253041
+508,519,Briarwood school,Urban Traffic,"[-2.521865355505198, 51.47777996966594]",NO2,66.6,-2.521865355505198,51.47777996966594,0.394468019927413
+509,520,St. Joseph's RC primary,Urban Traffic,"[-2.526668912316391, 51.47353241666064]",NO2,76.5,-2.526668912316391,51.47353241666064,0.3760587814327766
+510,521,Chester park infants,Urban Traffic,"[-2.530510667359974, 51.47455813656555]",NO2,70.9,-2.530510667359974,51.47455813656555,0.38050433451583665
+511,522,May park primary,Urban Background,"[-2.557679495886781, 51.47213944436014]",NO2,29.4,-2.557679495886781,51.47213944436014,0.3700215267441729
+512,523,Bannerman road,Urban Background,"[-2.566191426976658, 51.4642221150352]",NO2,11.9,-2.566191426976658,51.4642221150352,0.33570718067208405
+513,524,City academy,Urban Traffic,"[-2.562883006614892, 51.45974210405259]",NO2,20.0,-2.562883006614892,51.45974210405259,0.3162904504901229
+514,525,Summer hill a420,Urban Traffic,"[-2.5418093951628586, 51.46090213569729]",NO2,65.1,-2.5418093951628586,51.46090213569729,0.32131812152377254
+515,526,Summer hill Plummers hill,Urban Traffic,"[-2.542089705189822, 51.46147631172739]",NO2,59.1,-2.542089705189822,51.46147631172739,0.3238066469083439
+516,527,St patricks,Urban Traffic,"[-2.5521729857590243, 51.457293228032306]",NO2,38.1,-2.5521729857590243,51.457293228032306,0.3056768236219218
+517,528,Redfield educate together,Urban Traffic,"[-2.554598776113057, 51.45792920406009]",NO2,33.1,-2.554598776113057,51.45792920406009,0.3084331951981687
+518,529,Bristol futures academy,Urban Traffic,"[-2.560779925616985, 51.45490557378862]",NO2,19.2,-2.560779925616985,51.45490557378862,0.2953285368883923
+519,530,Barton Hill Academy,Urban Traffic,"[-2.5649933356186434, 51.45343767622517]",NO2,17.1,-2.5649933356186434,51.45343767622517,0.2889665500461919
+520,531,Easton c of e academy,Urban Background,"[-2.5721799853271246, 51.46076715288108]",NO2,14.1,-2.5721799853271246,51.46076715288108,0.3207330950736921
+521,532,St. Nicholas of tolentine,Urban Traffic,"[-2.5767669457494122, 51.459242997566676]",NO2,12.4,-2.5767669457494122,51.459242997566676,0.3141272825857093
+522,533,Hannah more front,Urban Traffic,"[-2.5797347323788196, 51.45376124074299]",NO2,10.6,-2.5797347323788196,51.45376124074299,0.2903689048536617
+523,534,Hillcrest primary,Urban Traffic,"[-2.5709511045365345, 51.43954351904976]",NO2,60.9,-2.5709511045365345,51.43954351904976,0.22874814834407486
+524,535,West town lane academy,Urban Traffic,"[-2.554700677255389, 51.42834580012636]",NO2,28.9,-2.554700677255389,51.42834580012636,0.1802163282585952
+525,536,St Mary redcliffe secondary,Urban Traffic,"[-2.5871576177863136, 51.44562260756899]",NO2,8.8,-2.5871576177863136,51.44562260756899,0.2550954099888364
+526,537,St Mary redcliffe primary,Urban Background,"[-2.5892135056116676, 51.44211450132926]",NO2,17.8,-2.5892135056116676,51.44211450132926,0.23989099362222938
+527,538,Dalby avenue,Urban Traffic,"[-2.595872410436526, 51.440777055952225]",NO2,9.4,-2.595872410436526,51.440777055952225,0.2340943971139291
+528,539,Dalby avenue church lane,Urban Traffic,"[-2.5970420241342005, 51.43998886298143]",NO2,9.8,-2.5970420241342005,51.43998886298143,0.23067830498722572
+529,540,Compass point,Urban Traffic,"[-2.6053916669069346, 51.438156712614614]",NO2,27.4,-2.6053916669069346,51.438156712614614,0.22273761701495762
+530,541,Holy cross primary,Urban Traffic,"[-2.599416069641839, 51.44331251552865]",NO2,9.4,-2.599416069641839,51.44331251552865,0.24508328412198838
+531,542,Southville primary,Urban Traffic,"[-2.6045826557430516, 51.44339382312531]",NO2,24.0,-2.6045826557430516,51.44339382312531,0.24543567782642342
+532,543,Southville primary Myrtle street,Urban Background,"[-2.608679482841795, 51.44091790915277]",NO2,19.6,-2.608679482841795,51.44091790915277,0.23470486628485981
+533,544,Ashton gate primary,Urban Traffic,"[-2.615123101973412, 51.44291624437893]",NO2,11.0,-2.615123101973412,51.44291624437893,0.24336581288743694
+534,545,Ashton park school,Urban Traffic,"[-2.628985406654823, 51.44022596218519]",NO2,18.7,-2.628985406654823,51.44022596218519,0.23170591212560165
+535,546,HotWells primary,Urban Background,"[-2.6212441418240378, 51.45077869043143]",NO2,16.2,-2.6212441418240378,51.45077869043143,0.2774422904148689
+536,547,St George's primary,Urban Background,"[-2.6061122376724253, 51.45136157162749]",NO2,24.9,-2.6061122376724253,51.45136157162749,0.27996854469325333
+537,548,St Michaels on the mount,Urban Background,"[-2.599066967046978, 51.45625352668329]",NO2,44.9,-2.599066967046978,51.45625352668329,0.30117067382853985
+538,549,Real sounds studios silver street,Urban Traffic,"[-2.5926492752523878, 51.45748214452723]",NO2,8.4,-2.5926492752523878,51.45748214452723,0.30649560300062606
+539,550,Cathedral School,Urban Traffic,"[-2.600724540336424, 51.450957741514515]",NO2,9.2,-2.600724540336424,51.450957741514515,0.27821831230021404
+540,551,Cod Almighty downpipe,Urban Traffic,"[-2.5923349035544354, 51.50099423211071]",NO2,63.0,-2.5923349035544354,51.50099423211071,0.49508051217641486
+541,552,Bell Hill,Urban Traffic,"[-2.559762445520189, 51.47997017468684]",NO2,19.2,-2.559762445520189,51.47997017468684,0.40396054574913454
+542,553,Glenfrome Road lamppost by M32 Bridge,Urban Traffic,"[-2.560783285070573, 51.47867053420647]",NO2,12.3,-2.560783285070573,51.47867053420647,0.39832779872266094
+543,554,Nelson Street,Urban Traffic,"[-2.5941899897553924, 51.45642226967237]",NO2,9.2,-2.5941899897553924,51.45642226967237,0.3019020196001962
+544,555,420 Hotwell Road A4,Urban Traffic,"[-2.624810968749629, 51.45061586184657]",NO2,9.1,-2.624810968749629,51.45061586184657,0.27673657814980546
+545,556,South Eastern stair access Plimsoll Bridge,Urban Traffic,"[-2.622646217021777, 51.448055722812825]",NO2,18.0,-2.622646217021777,51.448055722812825,0.26564072837633035
+546,557,Talbot Road 20mph lamppost,Urban Traffic,"[-2.5599606006431905, 51.43382383583872]",NO2,63.0,-2.5599606006431905,51.43382383583872,0.20395857839302117
+547,558,Coronation Road Walter Street No Entry,Urban Traffic,"[-2.61588088547371, 51.44470161248596]",NO2,15.0,-2.61588088547371,51.44470161248596,0.25110374275953273
+548,559,Except local buses sign Blackmoors Lane,Urban Traffic,"[-2.6274781498614814, 51.441528850604705]",NO2,13.0,-2.6274781498614814,51.441528850604705,0.23735273598320944
+549,560,Lamppost outside BRI CAZ,Urban Traffic,"[-2.596331613604048, 51.458407590101004]",NO2,73.0,-2.596331613604048,51.458407590101004,0.31050655901696955
+550,561,Lamppost opposite BRI CAZ,Urban Traffic,"[-2.5959996466090205, 51.45833734587732]",NO2,73.0,-2.5959996466090205,51.45833734587732,0.31020211486639915
+551,562,Lamp post near Queens Head pub South Bristol link,Urban Traffic,"[-2.62023172171774, 51.41112170375092]",NO2,50.7,-2.62023172171774,51.41112170375092,0.10556570055968625
+552,563, Lamp post at junction with Highridge rd. near Cox brothers garage. South Bristol link.,Urban Traffic,"[-2.6253367093977933, 51.41219148946778]",NO2,68.9,-2.6253367093977933,51.41219148946778,0.11020223843813591
+553,564,Westbury on Trym High Street Lamp post by Athena restaurant,Urban Traffic,"[-2.6182936794186684, 51.49438633026163]",NO2,29.8,-2.6182936794186684,51.49438633026163,0.46644133076132505
+554,565,A4018 Lamp post by layby before roundabout for Crow Ln/ Knole Ln,Urban Traffic,"[-2.617715761885049, 51.50920745733689]",NO2,49.3,-2.617715761885049,51.50920745733689,0.5306772950323875
+555,566,AQ Mesh Temple Way,Urban Traffic,"[-2.583990482463602, 51.45794830716138]",PM10 PM2.5,10.8,-2.583990482463602,51.45794830716138,0.3085159895852311
+556,567,Muller road/ Glenfrome road junction north,Urban Traffic,"[-2.566851812322687, 51.47569225477466]",NO2,24.5,-2.566851812322687,51.47569225477466,0.38541969462235964
+557,568,Traffic light on the corner of Shaldon road,Urban Traffic,"[-2.5748200206773375, 51.47955573674317]",NO2,27.2,-2.5748200206773375,51.47955573674317,0.4021643381593307
+558,569,Lampost on North corner of Draycott road junction with Muller road.,Urban Traffic,"[-2.5795175227955784, 51.48319208473943]",NO2,40.7,-2.5795175227955784,51.48319208473943,0.41792456467776284
+559,570,Muller road junction with Downend road lampost north of the junction.,Urban Traffic,"[-2.5796615673756698, 51.48546621546482]",NO2,50.1,-2.5796615673756698,51.48546621546482,0.4277808312951402
+560,571,Muller road junction with Downend road traffic light to the south of the junction.,Urban Traffic,"[-2.5796439761625316, 51.48521453963713]",NO2,49.6,-2.5796439761625316,51.48521453963713,0.42669004788890125
+561,572,St. Werburghs,Urban Background,"[-2.576611807004978, 51.47434092102542]",NO2 PM10 PM2.5 CO O3 Temperature RH,17.0,-2.576611807004978,51.47434092102542,0.3795629047849019
+562,573,Bristol Airport,Suburban Industrial,"[-2.7041309451788846, 51.38676459040267]",NOX NO2 NO PM10,,-2.7041309451788846,51.38676459040267,
+563,574,"Whiteladies road, on loading sign next to Redland library",Urban Traffic,"[-2.6106323593411584, 51.465437508639766]",NO2,61.4,-2.6106323593411584,51.465437508639766,0.3409747949204355
+564,575,Baldwin Street traffic light outside domino's,Urban Traffic,"[-2.5959784246041737, 51.45339186988202]",NO2,8.8,-2.5959784246041737,51.45339186988202,0.28876802164769844
+565,576,"Baldwin Street lamp post by cycle way, opp St Stephens St",Urban Traffic,"[-2.594437783480958, 51.453336765165844]",NO2,9.4,-2.594437783480958,51.453336765165844,0.28852919334797417
+566,577,High St lamp post outside Wards solicitors,Urban Traffic,"[-2.5923923333976444, 51.454309282152614]",NO2,14.5,-2.5923923333976444,51.454309282152614,0.292744160677919
+567,578,Church Road-CAZ-Outside Gurdwara,Urban Traffic,"[-2.549898325547875, 51.45965072530376]",NO2,39.5,-2.549898325547875,51.45965072530376,0.31589440759709636
+568,579,Church Road-CAZ-Lamppost,Urban Traffic,"[-2.545598213891304, 51.45995848086373]",NO2,51.3,-2.545598213891304,51.45995848086373,0.3172282451017787
+569,580,Marlborough St-CAZ-Lamppost opposite hosp,Urban Traffic,"[-2.5950610851309808, 51.459214344431686]",NO2,20.9,-2.5950610851309808,51.459214344431686,0.3140030975796619
+570,581,Marlborough St-CAZ-Lamppost by coach station,Urban Traffic,"[-2.5928499447654736, 51.45963920005343]",NO2,16.9,-2.5928499447654736,51.45963920005343,0.31584445622938984
+571,582,Rupert St-CAZ-Post outside fire station,Urban Traffic,"[-2.5930377510165115, 51.45747118405416]",NO2,8.7,-2.5930377510165115,51.45747118405416,0.30644809942324136
+572,583,Rupert St-CAZ-Post outside police station,Urban Traffic,"[-2.593369589576211, 51.45753244526991]",NO2,8.7,-2.593369589576211,51.45753244526991,0.30671361049041446
+573,584,Rupert St-CAZ-Post outside Fusion Tower,Urban Traffic,"[-2.5947581675443407, 51.45694990864963]",NO2,8.2,-2.5947581675443407,51.45694990864963,0.3041888496313228
+574,585,Park St-CAZ-Lamppost by Guild,Urban Traffic,"[-2.6030932035994963, 51.454875054048884]",NO2,33.8,-2.6030932035994963,51.454875054048884,0.29519626186629555
+575,586,Park St-CAZ-Lamppost by Agora,Urban Traffic,"[-2.6030462329701183, 51.45458755261621]",NO2,31.4,-2.6030462329701183,51.45458755261621,0.2939502073885694
+576,587,Baldwin St-CAZ-Lamppost by Yelland House,Urban Traffic,"[-2.594296442441514, 51.45353530670804]",NO2,10.7,-2.594296442441514,51.45353530670804,0.2893896884605336
+577,588,Baldwin St-CAZ-Drainpipe on building,Urban Traffic,"[-2.5951999144385454, 51.45328792994502]",NO2,9.1,-2.5951999144385454,51.45328792994502,0.2883175375485152
+578,589,Marlborough St-CAZ-On sign leg,Urban Traffic,"[-2.5937028738748245, 51.45992261842625]",NO2,19.4,-2.5937028738748245,51.45992261842625,0.31707281439524143
+579,590,Marlborough St-CAZ-Post by bollards,Urban Traffic,"[-2.5945644728563, 51.459765379726626]",NO2,23.3,-2.5945644728563,51.459765379726626,0.31639132914519075
+580,591,Marlborough St-CAZ-Post,Urban Traffic,"[-2.59433254559427, 51.45964067037348]",NO2,20.5,-2.59433254559427,51.45964067037348,0.31585082871548736
+581,592,Upper Maudlin St-CAZ-Crossing by BRI,Urban Traffic,"[-2.596371276056786, 51.45813762889828]",NO2,23.9,-2.596371276056786,51.45813762889828,0.30933652531542993
+582,593,Upper Maudlin St-CAZ-Post by BRI,Urban Traffic,"[-2.5971127641203378, 51.45760332078701]",NO2,27.8,-2.5971127641203378,51.45760332078701,0.3070207907177185
+583,594,Lower Park Row-CAZ-Post by Art shop,Urban Traffic,"[-2.598106591321577, 51.45655517557038]",NO2,35.7,-2.598106591321577,51.45655517557038,0.302478044518705
+584,595,Lower Park Row-CAZ-Post after OTR,Urban Traffic,"[-2.598533997606408, 51.456220286687454]",NO2,38.8,-2.598533997606408,51.456220286687454,0.3010266089963517
+585,596,Park Row-CAZ-Lamppost by museum,Urban Traffic,"[-2.5996618764920316, 51.455522128733605]",NO2,37.1,-2.5996618764920316,51.455522128733605,0.2980007359199482
+586,597,Park Row-CAZ-Post by house,Urban Traffic,"[-2.6000653132718785, 51.455556028018044]",NO2,39.2,-2.6000653132718785,51.455556028018044,0.2981476581622976
+587,598,Queens Road-CAZ-Lamppost by UoB,Urban Traffic,"[-2.6049942263652897, 51.45605218353791]",NO2,46.9,-2.6049942263652897,51.45605218353791,0.30029803634105207
+588,599,Park St-CAZ-Lamppost by bike stands,Urban Traffic,"[-2.6039222021981017, 51.45552719362496]",NO2,42.0,-2.6039222021981017,51.45552719362496,0.2980226875689976
+589,600,Park St-CAZ-Lamppost by City Hall,Urban Traffic,"[-2.601199589033542, 51.45315833731595]",NO2,17.5,-2.601199589033542,51.45315833731595,0.2877558726057205
+590,601,College Green-CAZ-Lamppost opp Denmark St,Urban Traffic,"[-2.5977267113687077, 51.45281645509185]",NO2,9.2,-2.5977267113687077,51.45281645509185,0.2862741273767242
+591,602,Anchor Road-CAZ-Lamppost,Urban Traffic,"[-2.5990603605117784, 51.45135293174533]",NO2,9.1,-2.5990603605117784,51.45135293174533,0.2799310987447426
+592,603,Lewins Mead-CAZ-Post by Evans Cycles,Urban Traffic,"[-2.5948496613473018, 51.4573450900461]",NO2,7.8,-2.5948496613473018,51.4573450900461,0.30590159778707054
+593,604,Lewins Mead-CAZ-Post by PMT,Urban Traffic,"[-2.5941326158611657, 51.45754655684441]",NO2,8.4,-2.5941326158611657,51.45754655684441,0.3067747711964017
+594,605,Rupert St-CAZ-Post by Courtrooms,Urban Traffic,"[-2.5955440010482196, 51.45650530459243]",NO2,9.1,-2.5955440010482196,51.45650530459243,0.3022618996640486
+595,606,Victoria Street-CAZ-No entry sign,Urban Traffic,"[-2.589651799879907, 51.45272255859053]",NO2,8.4,-2.589651799879907,51.45272255859053,0.28586717234062736
+596,607,Counterslip-CAZ-Drainpipe on building,Urban Traffic,"[-2.5888054076467677, 51.452933637298806]",NO2,8.4,-2.5888054076467677,51.452933637298806,0.28678200454564934
+597,608,Temple Gate-CAZ-Lamppost,Urban Traffic,"[-2.5832756816074984, 51.44814171947229]",NO2,10.1,-2.5832756816074984,51.44814171947229,0.2660134448584675
+598,609,Bath Road-CAZ-Lamppost or sign,Urban Traffic,"[-2.5807089889873667, 51.44658992960736]",NO2,15.5,-2.5807089889873667,51.44658992960736,0.25928786199196835
+599,610,Wells Road-CAZ-Lamppost,Urban Traffic,"[-2.577378418343403, 51.44149913036777]",NO2,41.0,-2.577378418343403,51.44149913036777,0.23722392607095436
+600,611,Winterstoke Road-CAZ-Lamppost,Urban Traffic,"[-2.613857696558156, 51.434309293341215]",NO2,12.6,-2.613857696558156,51.434309293341215,0.20606259049863554
+601,612,Newfoundland St-CAZ-Lamppost by layby,Urban Traffic,"[-2.5885588452778237, 51.45950800085905]",NO2,13.0,-2.5885588452778237,51.45950800085905,0.31527582830253525
+602,613,Newfoundland St-CAZ-Lamppost by crossing,Urban Traffic,"[-2.586975266839488, 51.45948898025356]",NO2,12.2,-2.586975266839488,51.45948898025356,0.31519339145892544
+603,614,Temple Way-CAZ-Sign by Champ Square,Urban Traffic,"[-2.5840760350665817, 51.457884936599974]",NO2,11.2,-2.5840760350665817,51.457884936599974,0.3082413364432895
+604,615,Newfoundland Way-CAZ-Lamppost by petrol station,Urban Traffic,"[-2.582053807295406, 51.46071848159792]",NO2,10.8,-2.582053807295406,51.46071848159792,0.32052214979333454
+605,616,Newfoundland Way-CAZ-Road sign,Urban Traffic,"[-2.5807905045219477, 51.460985521353635]",NO2,10.6,-2.5807905045219477,51.460985521353635,0.32167952170707587
+606,617,Houlton St-CAZ-30mph sign,Urban Traffic,"[-2.581653647484718, 51.45981228421031]",NO2,9.8,-2.581653647484718,51.45981228421031,0.316594616973616
+607,618,Cheltenham Rd-CAZ-Sign opp Tesco,Urban Traffic,"[-2.590359171464564, 51.465163870526716]",NO2,25.2,-2.590359171464564,51.465163870526716,0.33978882519196324
+608,619,Cheltenham Rd-CAZ-Lamppost by Bite,Urban Traffic,"[-2.589879727669806, 51.464824593701444]",NO2,25.2,-2.589879727669806,51.464824593701444,0.3383183719723451
+609,620,Lower Ashley Rd-CAZ-Lamppost by grass,Urban Traffic,"[-2.577099537437101, 51.466219075560744]",NO2,10.6,-2.577099537437101,51.466219075560744,0.34436216921096086
+610,621,Gloucester Rd-CAZ-Lamppost by bus stop,Urban Traffic,"[-2.588121858138267, 51.481467856135964]",NO2,55.3,-2.588121858138267,51.481467856135964,0.4104516183623557
+611,622,Bedminster Rd-CAZ-Lamppost opp school,Urban Traffic,"[-2.6050774743704452, 51.43285351616177]",NO2,14.5,-2.6050774743704452,51.43285351616177,0.1997531343816661
+612,623,Bedminster Rd-CAZ-Lamppost by school,Urban Traffic,"[-2.604717264179191, 51.432810422985916]",NO2,13.6,-2.604717264179191,51.432810422985916,0.19956636506982825
+613,624,Bedminster Rd-CAZ-Post opp Van Sales,Urban Traffic,"[-2.607596827092998, 51.4319143143871]",NO2,23.9,-2.607596827092998,51.4319143143871,0.1956825578772827
+614,625,Bedminster Rd-CAZ-Lamppost by Van Sales,Urban Traffic,"[-2.6078287722482165, 51.43204798146023]",NO2,24.6,-2.6078287722482165,51.43204798146023,0.19626188179037893
+615,626,Bedminster Rd-CAZ-Post,Urban Traffic,"[-2.610340280252158, 51.43160329673951]",NO2,37.3,-2.610340280252158,51.43160329673951,0.19433458222085617
+616,627,Parson St-CAZ-Lamppost by Station,Urban Traffic,"[-2.60803300831531, 51.4333417022904]",NO2,22.8,-2.60803300831531,51.4333417022904,0.20186897257379008
+617,628,Lower Ashley Rd-CAZ-Lamppost by Geo Jones,Urban Traffic,"[-2.5786729323294484, 51.466553009174774]",NO2,14.0,-2.5786729323294484,51.466553009174774,0.3458094645206095
+618,629,Lower Ashley Rd-CAZ-Lamppost opp London Rd,Urban Traffic,"[-2.5781397382232036, 51.466510681230226]",NO2,12.5,-2.5781397382232036,51.466510681230226,0.3456260117831842
+619,630,Bedminster Down Rd-CAZ-Lamppost by billboard,Urban Traffic,"[-2.612261044986583, 51.43108972221608]",NO2,37.4,-2.612261044986583,51.43108972221608,0.19210870867088073
+620,631,Bedminster Down Rd-CAZ-Roadsign by Winterstoke,Urban Traffic,"[-2.6094717102212868, 51.43335219086285]",NO2,23.5,-2.6094717102212868,51.43335219086285,0.20191443089566466
+621,632,West St-CAZ-Lamppost by Argus Rd,Urban Traffic,"[-2.6045708770368377, 51.437001101954216]",NO2,26.0,-2.6045708770368377,51.437001101954216,0.21772910688508748
+622,633,West St-CAZ-Lamppost opp Jamiesons,Urban Traffic,"[-2.6025270102131235, 51.43913356454341]",NO2,21.5,-2.6025270102131235,51.43913356454341,0.22697137233448839
+623,634,Bedminster Parade-CAZ-Lamppost by William Hill,Urban Traffic,"[-2.5945937270862727, 51.44314829878011]",NO2,8.3,-2.5945937270862727,51.44314829878011,0.24437155544314826
+624,635,York Rd-CAZ-Sign after bridge,Urban Traffic,"[-2.5898137154059455, 51.445159660824146]",NO2,7.1,-2.5898137154059455,51.445159660824146,0.25308896132873376
+625,636,Bath Rd-CAZ-Lamppost by Bus Lane,Urban Traffic,"[-2.5777997410844105, 51.44410463096056]",NO2,18.5,-2.5777997410844105,51.44410463096056,0.2485163765126077
+626,637,Bath Rd-CAZ-Lamppost by Kings Road,Urban Traffic,"[-2.5595348886026033, 51.44016499566909]",NO2,22.4,-2.5595348886026033,51.44016499566909,0.2314416783106071
+627,638,A4044 Roundabout-CAZ-Lamppost,Urban Traffic,"[-2.5843087483805456, 51.4558156266086]",NO2,14.2,-2.5843087483805456,51.4558156266086,0.299272779463997
+628,639,Victoria St-CAZ-Lamppost opp Mitchell Lane,Urban Traffic,"[-2.5868405614088217, 51.45121705458138]",NO2,7.8,-2.5868405614088217,51.45121705458138,0.2793421961191324
+629,640,Lamb Street-CAZ-One way sign by Church,Urban Traffic,"[-2.5800974914236816, 51.45741016845125]",NO2,15.6,-2.5800974914236816,51.45741016845125,0.3061836528620195
+630,641,Stokes Croft-CAZ-Lamppost,Urban Traffic,"[-2.589935221293238, 51.46354745497871]",NO2,26.6,-2.589935221293238,51.46354745497871,0.3327831493846053
+631,642,Ashley Road-CAZ-Lamppost opp Drumd Rd,Urban Traffic,"[-2.5876204290367606, 51.46488991256636]",NO2,23.5,-2.5876204290367606,51.46488991256636,0.338601469219396
+632,643,Sussex Place-CAZ-Lamppost,Urban Traffic,"[-2.5798608651424173, 51.4671406039893]",NO2,13.6,-2.5798608651424173,51.4671406039893,0.34835614800291653
+633,644,Ashley Down Rd-CAZ-Lamppost,Urban Traffic,"[-2.581970986679813, 51.47343327077164]",NO2,54.0,-2.581970986679813,51.47343327077164,0.3756290751256379
+634,645,Gloucester Rd-CAZ-Lamppost opp Baths,Urban Traffic,"[-2.591246955687315, 51.47479850732866]",NO2,37.6,-2.591246955687315,51.47479850732866,0.38154612085721684
+635,646,Cheltenham Rd-CAZ-Post by Papa Johns,Urban Traffic,"[-2.5911212342882273, 51.467318088714535]",NO2,28.0,-2.5911212342882273,51.467318088714535,0.3491253811665588
+636,647,Merchants Rd-CAZ-Lamppost by house,Urban Traffic,"[-2.618384355373911, 51.448950494196765]",NO2,9.3,-2.618384355373911,51.448950494196765,0.26951873997137893
+637,648,Wells Rd-CAZ-Lamppost by Red Lion Carpets,Urban Traffic,"[-2.563731245695491, 51.42930993853168]",NO2,48.6,-2.563731245695491,51.42930993853168,0.18439498213843494
+638,649,Bath Rd-CAZ-Lamppost,Urban Traffic,"[-2.54674680850237, 51.43317573242587]",NO2,34.2,-2.54674680850237,51.43317573242587,0.20114964574840116
+639,650,Wells Rd-CAZ-Lamppost,Urban Traffic,"[-2.565011964197827, 51.4316686195837]",NO2,67.6,-2.565011964197827,51.4316686195837,0.19461769671437099
+640,651,Church Rd-CAZ-Post by Barwaaqo Cafe,Urban Traffic,"[-2.561011290497011, 51.46279026882979]",NO2,18.6,-2.561011290497011,51.46279026882979,0.3295014433334145
+641,652,Whitehall Rd-CAZ-Lamppost by house,Urban Traffic,"[-2.5610941000780456, 51.46176481387968]",NO2,22.8,-2.5610941000780456,51.46176481387968,0.32505703858589896
+642,653,Stapleton Rd-CAZ-Lamppost by house,Urban Traffic,"[-2.569782948665345, 51.46478920784946]",NO2,12.3,-2.569782948665345,51.46478920784946,0.33816500682595946
+643,654,Mina Rd-CAZ-Lamppost by house,Urban Traffic,"[-2.5742468403236165, 51.46718622693244]",NO2,10.9,-2.5742468403236165,51.46718622693244,0.3485538815309164
+644,655,Muller Rd-CAZ-Lamppost opp LA DT,Urban Traffic,"[-2.5578086228017005, 51.47445866160491]",NO2,23.3,-2.5578086228017005,51.47445866160491,0.3800732019855804
+645,656,Stapleton Rd-CAZ-Lamppost,Urban Traffic,"[-2.560916579834494, 51.47662883257064]",NO2,12.7,-2.560916579834494,51.47662883257064,0.38947889859074275
+646,657,Fishponds Rd-CAZ-Lamppost,Urban Traffic,"[-2.5531786715352007, 51.47379715072091]",NO2,37.1,-2.5531786715352007,51.47379715072091,0.377206160275877
+647,658,Fishponds Rd-CAZ-Lamppost,Urban Traffic,"[-2.529508082105169, 51.47998463997244]",NO2,60.4,-2.529508082105169,51.47998463997244,0.40402323946766194
+648,659,Muller Rd-CAZ-Lamppost,Urban Traffic,"[-2.5807572801207876, 51.48782556445269]",NO2,60.0,-2.5807572801207876,51.48782556445269,0.43800644075914213
+649,660,Muller Rd-CAZ-Lamppost,Urban Traffic,"[-2.564429271098372, 51.47540718023556]",NO2,18.8,-2.564429271098372,51.47540718023556,0.3841841584977971
+650,661,Linden Rd-CAZ-Lamppost by house,Urban Traffic,"[-2.605847603110864, 51.478059732516925]",NO2,70.7,-2.605847603110864,51.478059732516925,0.3956805347657984
+651,662,Linden Rd-CAZ-Lamppost by house,Urban Traffic,"[-2.6080761733712037, 51.47888439506744]",NO2,77.7,-2.6080761733712037,51.47888439506744,0.39925468900261674
+652,663,Whiteladies Rd-CAZ-Lamppost after petrol station,Urban Traffic,"[-2.6147562148935735, 51.47019957370065]",NO2,89.5,-2.6147562148935735,51.47019957370065,0.3616139703052619
+653,664,Westbury Rd-CAZ-Lamppost by hospital,Urban Traffic,"[-2.6154896506697063, 51.47227281330897]",NO2,95.5,-2.6154896506697063,51.47227281330897,0.3705995585624308
+654,665,Upper Maudlin St-CAZ-Lamppost opp BRI,Urban Traffic,"[-2.5961837047034515, 51.458102616971566]",NO2,21.3,-2.5961837047034515,51.458102616971566,0.30918478079141737
+655,666,Upper Maudlin St-CAZ-Lamppost by BRI,Urban Traffic,"[-2.596603549312594, 51.45828930818225]",NO2,25.5,-2.596603549312594,51.45828930818225,0.3099939156081195
+656,667,College Green-CAZ-Post by Toni&Guy,Urban Traffic,"[-2.5981854495344083, 51.45267923044324]",NO2,9.7,-2.5981854495344083,51.45267923044324,0.28567938464356074
+657,668,Clift House Road-CAZ-Telegraph pole clift house road,Urban Traffic,"[-2.6182223803168223, 51.4444105161918]",NO2,12.9,-2.6182223803168223,51.4444105161918,0.24984210786119748
+658,669,Temple Way Bridge-CAZ-Lamppost Temple Way Bridge,Urban Traffic,"[-2.5840770003758515, 51.45230992204151]",NO2,8.0,-2.5840770003758515,51.45230992204151,0.2840787721410122
+659,670,Bristol Hill-CAZ-Lamppost Bristol Hill,Urban Traffic,"[-2.5516467041877102, 51.433908109559994]",NO2,36.1,-2.5516467041877102,51.433908109559994,0.20432382752158243
+660,671,North View Downs Park West,Urban Traffic,"[-2.6150956255950404, 51.47936926993521]",NO2,89.0,-2.6150956255950404,51.47936926993521,0.40135617592220363
+661,672,Marlborough Street,Urban Traffic,"[-2.5954343626644922, 51.45914050955768]",NOX NO2 NO,32.0,-2.5954343626644922,51.45914050955768,0.31368309125998806
+662,673,Marlborough Street - co - located,Urban Traffic,"[-2.5954343626644922, 51.45914050955768]",NO2,32.0,-2.5954343626644922,51.45914050955768,0.31368309125998806
+663,674,Troopers Hill Opposite No 30,Urban Background,"[-2.5316557905583377, 51.45670441882739]",NO2,53.9,-2.5316557905583377,51.45670441882739,0.30312487687339096
+664,675,Netham Lock Junction,Urban Background,"[-2.5537958735168855, 51.45222321981322]",NO2,10.2,-2.5537958735168855,51.45222321981322,0.28370299766649226
+665,676,Blackswarth Road Opposite St Patrick's School,Urban Background,"[-2.5521442003864774, 51.4572933633816]",NO2,38.2,-2.5521442003864774,51.4572933633816,0.3056774102367259
+666,677,Beaufort Road Opposite No 109,Urban Background,"[-2.546810895237937, 51.45784879380862]",NO2,54.6,-2.546810895237937,51.45784879380862,0.30808469066040545
+667,678,Victoria Avenue Opposite No 90,Urban Background,"[-2.5586919915939825, 51.45719045887098]",NO2,24.9,-2.5586919915939825,51.45719045887098,0.3052314137592713
+668,679,Avonvale Road Opposite Bristol Futures Academy,Urban Background,"[-2.560751580989755, 51.45494167652848]",NO2,18.9,-2.560751580989755,51.45494167652848,0.2954850090848497
+669,680,Morely Street/Bright Street Ped Crossing,Urban Background,"[-2.563086212225398, 51.45636020313618]",NO2,28.7,-2.563086212225398,51.45636020313618,0.3016330182090601
+670,681,Russel Town Avenue Opposite Pheonix Social Enterprise Club,Urban Background,"[-2.562951881433163, 51.45949000423615]",NO2,19.7,-2.562951881433163,51.45949000423615,0.3151978294823501
+671,682,Church Road Miss Millies,Urban Traffic,"[-2.557559906709684, 51.45878738771557]",NO2,26.5,-2.557559906709684,51.45878738771557,0.31215263261686776
+672,683,Victoria Parade Opposite No 39,Urban Background,"[-2.5562528847580266, 51.46020528130949]",NO2,29.7,-2.5562528847580266,51.46020528130949,0.3182978982081387
+673,684,Lyppiatt Road Opposite No 25,Urban Background,"[-2.554151969693373, 51.46026016565202]",NO2,29.0,-2.554151969693373,51.46026016565202,0.31853577139065903
+674,685,Stapleton Road HE,Urban Traffic,"[-2.560889772766397, 51.476790807031186]",NO2,15.0,-2.560889772766397,51.476790807031186,0.39018090901192337
+675,686,Glenfrome Road stonewall LP HE,Urban Traffic,"[-2.560783285070573, 51.47867053420647]",NO2,14.0,-2.560783285070573,51.47867053420647,0.39832779872266094
+676,687,B4058 East of M32 stonewall LP HE,Urban Traffic,"[-2.5597481564664184, 51.47997923425112]",NO2,27.0,-2.5597481564664184,51.47997923425112,0.4039998106339359
+677,688,Napier Road 20mph LP HE,Urban Traffic,"[-2.564220362755663, 51.471317016368374]",NO2,15.0,-2.564220362755663,51.471317016368374,0.3664570572658261
+678,689,505 Stapleton Road Easton LP HE,Urban Traffic,"[-2.562929196868186, 51.471691852568206]",NO2,15.0,-2.562929196868186,51.471691852568206,0.36808162769273295
+679,690,Stapleton Rd Freemantle rd LP HE,Urban Traffic,"[-2.5609518873021107, 51.473643472930775]",NO2,18.0,-2.5609518873021107,51.473643472930775,0.3765401082957259
+680,691,Stapleton Rd Heath St Cycles sign HE,Urban Traffic,"[-2.5614056419698326, 51.47307484017571]",NO2,18.0,-2.5614056419698326,51.47307484017571,0.37407560791380295
+681,692,New Gatton Rd barrier LP HE,Urban Traffic,"[-2.5706294928507276, 51.4680311194439]",NO2,15.0,-2.5706294928507276,51.4680311194439,0.3522157140557558
+682,693,Stairway bridge M32 J3 HE,Urban Traffic,"[-2.571083866717215, 51.46752537786026]",NO2,12.0,-2.571083866717215,51.46752537786026,0.35002378910079396
+683,694,Fox Rd 26 LP HE,Urban Traffic,"[-2.5698161521506373, 51.46745961497519]",NO2,15.0,-2.5698161521506373,51.46745961497519,0.34973876743446725
+684,695,Lower Ashley Rd Millpond Sch LP HE,Urban Traffic,"[-2.5704926948083164, 51.466296384780215]",NO2,18.0,-2.5704926948083164,51.466296384780215,0.34469723362505816
+685,696,Mina Rd M32 AAPEX LP HE,Urban Traffic,"[-2.5738850357202794, 51.46703513848245]",NO2,12.0,-2.5738850357202794,51.46703513848245,0.34789905196053356
+686,697,Gable Rd M32 barrier LP HE,Urban Traffic,"[-2.5728622816605333, 51.46698619076956]",NO2,12.0,-2.5728622816605333,51.46698619076956,0.3476869086113509
+687,698,Portway - Sylvan Way,Roadside,"[-2.6547679119042153, 51.48641061994922]",NO2,23.0,-2.6547679119042153,51.48641061994922,0.4318739567645661
+688,699,Portway - Roman Way,Roadside,"[-2.647620876172448, 51.47904125095154]",NO2,19.0,-2.647620876172448,51.47904125095154,0.3999345150992146
+689,700,Portway - Bridge Valley Road,Roadside,"[-2.6298554930672178, 51.45845682536582]",NO2,18.0,-2.6298554930672178,51.45845682536582,0.31071994863947716
+690,701,Blackboy Hill_Traffic light on pedestrian crossing,,"[-2.6139922330997893, 51.46906163168295]",NO2,,-2.6139922330997893,51.46906163168295,0.3566820375028325
+691,702,Lamb Street_CAZ signpost by George Jones Park,,"[-2.5795138851667607, 51.45792559992801]",NO2,,-2.5795138851667607,51.45792559992801,0.3084175745980276
+692,703,Sussex Place_No loading signpost,,"[-2.579685272307403, 51.46691667467883]",NO2,,-2.579685272307403,51.46691667467883,0.34738562024792935
+693,704,Bedminster Down Rd junction with Winterstoke Close_CAZ,,"[-2.609542554307664, 51.433270897412555]",NO2,,-2.609542554307664,51.433270897412555,0.20156209850272414
+694,705,A4044 Roundabout_Traffic Light,,"[-2.584193042375873, 51.455771244580525]",NO2,,-2.584193042375873,51.455771244580525,0.2990804241623356
+695,706,Speedwell Road_near Wackum Inn,,"[-2.5419535128223014, 51.46576596937718]",NO2,,-2.5419535128223014,51.46576596937718,0.3423983703398913
+696,707,Rodney Road junction with Whiteway Road,,"[-2.5279124420175134, 51.46529043268529]",NO2,,-2.5279124420175134,51.46529043268529,0.34033735583036584
+697,708,Whiteway Road junction with A420,,"[-2.5356705609472345, 51.4615416882718]",NO2,,-2.5356705609472345,51.4615416882718,0.32408999414298645
+698,709,Air Balloon Hill Primary School,,"[-2.530569245243335, 51.458570621919755]",NO2,,-2.530569245243335,51.458570621919755,0.3112131521141845
+699,710,Nags Head Hill,,"[-2.5259994213446975, 51.45419426540695]",NO2,,-2.5259994213446975,51.45419426540695,0.2922456687934806
+700,711,Barton Hill Academy,,"[-2.5644398053427326, 51.45406977069751]",NO2,,-2.5644398053427326,51.45406977069751,0.2917060986469686
